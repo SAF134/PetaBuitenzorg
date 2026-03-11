@@ -1,0 +1,29 @@
+{
+  "name": "peta-buitenzorg",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "update-mobile": "npm run build && npx cap sync android"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@vitejs/plugin-basic-ssl": "^2.1.4",
+    "terser": "^5.46.0",
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.2.0",
+    "@capacitor/cli": "^8.2.0",
+    "@capacitor/core": "^8.2.0",
+    "@capacitor/geolocation": "^8.1.0",
+    "@capacitor/status-bar": "^8.0.1",
+    "gsap": "^3.14.2",
+    "leaflet": "^1.9.4",
+    "leaflet-routing-machine": "^3.2.12",
+    "leaflet.markercluster": "^1.5.3"
+  }
+}

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="description"
+    content="PetaBuitenzorg" />
+  <meta name="keywords" content="Bogor, Buitenzorg, hotel, rumah sakit, peta, map" />
+  <title>PetaBuitenzorg</title>
+  <link rel="icon" type="image/png" href="/src/assets/Logo.png" />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+    rel="stylesheet" />
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <!-- Leaflet MarkerCluster CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+
+  <!-- App Styles -->
+  <link rel="stylesheet" href="/src/styles/index.css" />
+  <link rel="stylesheet" href="/src/styles/components.css" />
+  <link rel="stylesheet" href="/src/styles/landing.css" />
+  <link rel="stylesheet" href="/src/styles/list.css" />
+  <link rel="stylesheet" href="/src/styles/detail.css" />
+  <link rel="stylesheet" href="/src/styles/map.css" />
+</head>
+
+<body>
+  <div id="app">
+    <!-- Dynamic content rendered by router -->
+  </div>
+
+  <!-- Bottom Navigation (hidden on landing) -->
+  <nav id="navbar" class="navbar hidden">
+    <!-- Overlay Backdrop -->
+    <div id="nav-overlay" class="navbar__overlay"></div>
+
+    <!-- Explore Categories Pop-up -->
+    <div id="nav-explore-menu" class="navbar__explore-menu">
+      <div class="explore-menu__grid">
+        <a href="#/hotel" class="explore-menu__item">
+          <div class="explore-menu__icon explore-menu__icon--hotel">
+            <i data-lucide="bed-double"></i>
+          </div>
+          <span>Hotel</span>
+        </a>
+        <a href="#/rumah-sakit" class="explore-menu__item">
+          <div class="explore-menu__icon explore-menu__icon--rs">
+            <i data-lucide="heart-pulse"></i>
+          </div>
+          <span>RS</span>
+        </a>
+        <a href="#/mall" class="explore-menu__item">
+          <div class="explore-menu__icon explore-menu__icon--mall">
+            <i data-lucide="shopping-bag"></i>
+          </div>
+          <span>Mall</span>
+        </a>
+        <a href="#/spbu" class="explore-menu__item">
+          <div class="explore-menu__icon explore-menu__icon--spbu">
+            <i data-lucide="fuel"></i>
+          </div>
+          <span>SPBU</span>
+        </a>
+      </div>
+      <div class="explore-menu__arrow"></div>
+    </div>
+
+    <a href="#/" class="navbar__item" data-page="landing" id="nav-home">
+      <i data-lucide="home"></i>
+      <span>Beranda</span>
+    </a>
+    <div class="navbar__item" id="nav-explore">
+      <div class="navbar__explore-btn">
+        <i data-lucide="compass"></i>
+      </div>
+      <span>Jelajahi</span>
+    </div>
+    <a href="#/peta" class="navbar__item" data-page="peta" id="nav-map">
+      <i data-lucide="map"></i>
+      <span>Peta</span>
+    </a>
+  </nav>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+
+</html>

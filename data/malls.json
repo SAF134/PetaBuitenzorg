@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "nama": "Botani Square",
+        "alamat": "Jl. Raya Pajajaran No.40, Tugu Kujang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16127",
+        "lat": -6.601415544818375,
+        "lng": 106.80690320000943,
+        "rating": 4.6,
+        "peta": "https://maps.app.goo.gl/sneBKyKGgd5V9AGT9",
+        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerNY2EsROS8714YgjUZOrwhPXwu5tu4T6S3qTG_E5yx1bKeswQojYsOUlQ4FeBAPuMaF7MxdNrt4qfn-MIIhNvlWYHna6ADNheiRSalP1gMt8XZuUvVn4ctwQh2CWo7LIL3aUn5=w408-h261-k-no"
+    },
+    {
+        "id": 2,
+        "nama": "Bogor Junction",
+        "alamat": "Jl. Jend. Sudirman No.11, RT.01/RW.03, Pabaton, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121",
+        "lat": -6.589377024664911,
+        "lng": 106.79665028709975,
+        "rating": 4.6,
+        "peta": "https://maps.app.goo.gl/4ichGJSQhpjsa1gk6",
+        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq1FT18lNMVOT1RSAWvPhPjYeewwPA2Nnu9SMbBSlcP-scrv0O5eDjid5FHsZPn19Vb5im4T9nabJNI568Sq8El-deFDX96cJN2HEYB0MH0w2yRdvi02jZi1n7sJ267Nb5ZrTmPajF5SVE=w408-h306-k-no"
+    },
+    {
+        "id": 3,
+        "nama": "Mall BTM Bogor",
+        "alamat": "Jl. Ir. H. Juanda No.68, RT.01/RW.13, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",
+        "lat": -6.605054078894404,
+        "lng": 106.79529154326775,
+        "rating": 4.4,
+        "peta": "https://maps.app.goo.gl/edZ1RpohAAttepQZ6",
+        "gambar": "https://bogordaily.net/wp-content/uploads/2020/06/Screenshot_2020-06-18-11-08-32-89.png"
+    },
+    {
+        "id": 4,
+        "nama": "CitiPlaza Bogor",
+        "alamat": "Jl. Veteran No.31, RT.01/RW.03, Panaragan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16125",
+        "lat": -6.595799912435619,
+        "lng": 106.78706615890488,
+        "rating": 4.5,
+        "peta": "https://maps.app.goo.gl/FxdcCWwuTTsKuy6b8",
+        "gambar": "https://webnwp.blob.core.windows.net/wpmedia/2024/09/Bogor-Jembatan-Merah-new-web-scaled-1-2048x1204-1.jpg"
+    },
+    {
+        "id": 5,
+        "nama": "Lippo Plaza Keboen Raya",
+        "alamat": "Jl. Malabar 2 No.17A, Babakan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",
+        "lat": -6.595451944653976,
+        "lng": 106.80576448835262,
+        "rating": 4.4,
+        "peta": "https://maps.app.goo.gl/5QcG7JJCdgbXMndP9",
+        "gambar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsklETlbSx7D3U2VFHYt9Ezbv_G7GBZdhkHi8KDo-zaEnPiPi_8VjV1Nn7X84juGMtt9aFr8XLE2HrutMbuTmw1Rz0tmIDsHYFOseFaFQ4U17yEriy-gTDpe21c5ddMZ7GBy2ArcZ84LE/w1200-h675-p-k-no-nu/Pemecahan+Reko+MURI+akan+diciptakan+Mall+Lippo+Plaza+Keboen+Raya+yang+berada+di+Jalan+Pajajaran%252C+Kelurahan+Babakan%252C+Kecamatan+Bogor+Tengah.+Rencananya+pemecahan+rekor+MURI+akan+diselenggarakan+pada+tanggal+09+Desember+2017..png"
+    },
+    {
+        "id": 6,
+        "nama": "Bogor Great Mall",
+        "alamat": "Jl. KH. R. Abdullah Bin Nuh, RT.05/RW.04, Cibadak, Tanah Sareal, Kota Bogor, Jawa Barat 16166",
+        "lat": -6.55630664538846,
+        "lng": 106.77563086153023,
+        "rating": 4.5,
+        "peta": "https://maps.app.goo.gl/pwViSs1c3oSAUeyy7",
+        "gambar": "https://scontent.fcgk21-1.fna.fbcdn.net/v/t39.30808-6/470642695_3883069318629065_4807947048368176759_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=2a1932&_nc_ohc=HQQAgGklBvgQ7kNvwHbBvdl&_nc_oc=AdkOw9VWGbnZxH7mxErhzgWB7KSC1n_iMMdBDHDNLQgrsJkBCOE211pYii6JSGgYQno&_nc_zt=23&_nc_ht=scontent.fcgk21-1.fna&_nc_gid=y4DtSCfgKkwIXuKlKVJPQw&_nc_ss=8&oh=00_AfxiNV7ZjQnfuEPSsDcTTxXfdHY_M08Xa-BzrQ9EE3dANw&oe=69B4BE36"
+    },
+    {
+        "id": 7,
+        "nama": "Cibinong City Mall",
+        "alamat": "Jl. Tegar Beriman No.1, Pakansari, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16914",
+        "lat": -6.484504622405495,
+        "lng": 106.842368269337956,
+        "rating": 4.7,
+        "peta": "https://maps.app.goo.gl/V6cETbmxGoTe3jPc9",
+        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepKzb7yObJp0JKeRxSawnNtuJs6AJQ8m-QKV0UOoL7upnNr_CFO9YbERLwxrGphwdhNbkkepmPst4CJ1wsefC-LIqE-eFxUWsHZALbxxitkeFvKlD2cHyrLg8_IKVNdjpO-sPFrJNNZ7OQ=w408-h306-k-no"
+    },
+    {
+        "id": 8,
+        "nama": "Bogor Square",
+        "alamat": "Jl. Nasional 11, RT.05/RW.09, Kedung Jaya, Tanah Sareal, Kota Bogor, Jawa Barat 16164",
+        "lat": -6.558648788671682,
+        "lng": 106.78537339612045,
+        "rating": 4.6,
+        "peta": "https://maps.app.goo.gl/MooCZB4HhLaEX7L19",
+        "gambar": "https://scontent.fcgk21-1.fna.fbcdn.net/v/t39.30808-6/284086907_5318876031485018_4581136573304640092_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=vOuMY5lSVwIQ7kNvwFqW_wH&_nc_oc=AdlXHVOfN7oGXxFlID7jqprPxW0tKAvflMuvP8wcbBn6f-RUAvjqLnoatI4LoebIjAI&_nc_zt=23&_nc_ht=scontent.fcgk21-1.fna&_nc_gid=we9P4cFyFDefzVV92wN-xQ&_nc_ss=8&oh=00_AfzXsdWAxtDVU8Ixv73VO-JqafArBVeWCMmrzGYireLjFw&oe=69B4DDF3"
+    },
+    {
+        "id": 9,
+        "nama": "AEON MALL Sentul City",
+        "alamat": "Jl. MH. Thamrin, Citaringgul, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810",
+        "lat": -6.566807846286907,
+        "lng": 106.8581778557084,
+        "rating": 4.7,
+        "peta": "https://maps.app.goo.gl/hWbY7sUw5x1ZeZQWA",
+        "gambar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/27/98/b5/caption.jpg?w=1000&h=-1&s=1"
+    },
+    {
+        "id": 10,
+        "nama": "Yogya Bogor indah plaza Cimanggu",
+        "alamat": "Jl. Sholeh Iskandar No.3, RT.04/RW.09, Kedungbadak, Tanah Sareal, Kota Bogor, Jawa Barat 16165",
+        "lat": -6.561088963200758,
+        "lng": 106.7906310241066,
+        "rating": 4.6,
+        "peta": "https://maps.app.goo.gl/tq1ADLcpnyXMM4YG7",
+        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweppZqvCqfyfIUkyOuXuOd6BiJC13YnKr0pX1bYQCdrgfZLLdX2GLMVG9K6-0HWOaqfWtXtLNfy9QMsnDv7Xz8CtJmBLAN60N8c63lJov8IXp4cVXn3hfT8CuFMkkZ8_32xbXcGU=w408-h306-k-no"
+    },
+    {
+        "id": 11,
+        "nama": "Vivo Mall Bogor",
+        "alamat": "Jl. Raya Jakarta-Bogor No.50, Cimandala, Kec. Sukaraja, Kabupaten Bogor, Jawa Barat 16710",
+        "lat": -6.525079742724295,
+        "lng": 106.83195940000607,
+        "rating": 4.4,
+        "peta": "https://maps.app.goo.gl/AZq8SaEu8jaz4TDn6",
+        "gambar": "https://asset.tribunnews.com/-4cprO-4xPr1HYNBVN1pOf83F5s=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/wartakota/foto/bank/originals/proyek-vivo-sentul-bogor.jpg"
+    },
+    {
+        "id": 12,
+        "nama": "Bellanova Country Mall",
+        "alamat": "Jl. MH. Thamrin No.8, Cipambuan, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810",
+        "lat": -6.566596111554252,
+        "lng": 106.84433800000946,
+        "rating": 4.0,
+        "peta": "https://maps.app.goo.gl/BVjsLWBKaujXgGDz9",
+        "gambar": "https://kfmap.asia/storage/thumbs/storage/photos/ID.BGR.RT.BLNV/ID.BGR.RT.BLNV_1.jpg"
+    },
+    {
+        "id": 13,
+        "nama": "Lippo Plaza Ekalokasari",
+        "alamat": "Jl. Siliwangi No.123, RT.02/RW.01, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142",
+        "lat": -6.621733841103846, 
+        "lng": 106.81765036255678,
+        "rating": 4.4,
+        "peta": "https://maps.app.goo.gl/EQic9PAa6RAJ2CVz6",
+        "gambar": "https://www.lippocikarang.co.id/wp-content/uploads/2023/07/Lippo-Plaza-Ekalokasari-Bogor.jpg"
+    },
+    {
+        "id": 14,
+        "nama": "Plaza Jambu Dua Bogor",
+        "alamat": "Jl. Achmad Adnawijaya, RT.04/RW.01, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153",
+        "lat": -6.569217721725546,
+        "lng": 106.80811362272632,
+        "rating": 4.6,
+        "peta": "https://maps.app.goo.gl/WFhHoX75XoHY4cTE8",
+        "gambar": "https://thumb.viva.id/vivabogor/1265x711/2025/12/29/695232ca4ec74-plaza-jambu-dua-kota-bogor_bogor.jpg"
+    },
+    {
+        "id": 15,
+        "nama": "BTW Mall",
+        "alamat": "Jl. Veteran No.27, RT.01/RW.03, Panaragan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16125",
+        "lat": -6.595709957241633, 
+        "lng": 106.78594571846673,
+        "rating": 4.3,
+        "peta": "https://maps.app.goo.gl/551MqTLr8yA3TJoJ6",
+        "gambar": "https://www.pinhome.id/info-area/wp-content/uploads/2022/03/BTW-Libur.jpg"
+    },
+    {
+        "id": 16,
+        "nama": "Metropolitan Mall Cileungsi",
+        "alamat": "Jl. Achmad Adnawijaya, RT.04/RW.01, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153",
+        "lat": -6.569217721725546,
+        "lng": 106.80811362272632,
+        "rating": 4.6,
+        "peta": "https://maps.app.goo.gl/WFhHoX75XoHY4cTE8",
+        "gambar": "https://thumb.viva.id/vivabogor/1265x711/2025/12/29/695232ca4ec74-plaza-jambu-dua-kota-bogor_bogor.jpg"
+    },
+    {
+        "id": 17,
+        "nama": "Pusat Grosir Bogor PGB",
+        "alamat": "Gg. Mushola No.241, RT.04/RW.03, Gunungbatu, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16118",
+        "lat": -6.592932647786969,
+        "lng": 106.78727713250802,
+        "rating": 4.5,
+        "peta": "https://maps.app.goo.gl/bLmXiezonFZ1EVAt9",
+        "gambar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc0z8I4HthR3vCkoQeIpDiuB_Abq4irLqD4YhCRcG1aGm-XEf88H0vDEHlqoLGHfKbn-m4OOkuE_OoGYyJpHP_nJZ6xYnAxECoB9xgk0Uyul78zYQDLeuDMHIqMGeBLF1F4O1vsksc1Zg/w1200-h675-p-k-no-nu/8c529-pgb.jpg"
+    },
+    {
+        "id": 18,
+        "nama": "Boxies 123 Mall",
+        "alamat": "Jl. Raya Tajur No.123, RT.01/RW.06, Tajur, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16141",
+        "lat": -6.633777164039009,
+        "lng": 106.8270470850204,
+        "rating": 4.5,
+        "peta": "https://maps.app.goo.gl/LXbtiLfUtTErGE2w6",
+        "gambar": "https://i1.wp.com/www.heibogor.com/wp-content/uploads/2020/01/IMG-20200111-WA0010.jpg?zoom=1.5&resize=601%2C345"
+    },
+    {
+        "id": 19,
+        "nama": "Living World Kota Wisata Cibubur",
+        "alamat": "Jl. Boulevard Kota Wisata, Ciangsana, Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat 16968",
+        "lat": -6.368587987609067,
+        "lng": 106.95918729619079,
+        "rating": 4.6,
+        "peta": "https://maps.app.goo.gl/Z7HFuTcycZSCEJCa6",
+        "gambar": "https://www.goersapp.com/blog/wp-content/uploads/2024/12/Living-World-Kota-Wisata-Daftar-Tenant-Lokasi-hingga-Jam-Buka_.jpg"
+    }
+]
