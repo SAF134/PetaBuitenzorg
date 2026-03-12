@@ -19,7 +19,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/CjSTpXwnmrnTcruK9",
-        "gambar": "https://navi.id/wp-content/uploads/2024/11/spbu-pertamina-34-16117-ciomas-di-kab-bogor-1732140473.jpg"
+        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34-16117 Ciomas.jpg"
     },
     {
         "id": 2,
@@ -41,7 +41,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/6fL31uEQKwEsFoH57",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer9M9tnqXTaPx4iLDsqCiTWslU1YexGNLmzOVh23LueOobpZReOoub7fTgTXykJYsRTItDuzw36-BaOsgZBIkrXXHrdG1u96CJQACv0iHBrUSVs3VCS-wXmH2X6RId8V_ELVDIBdH6r7Hkj=w408-h544-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34-16115.jpg"
     },
     {
         "id": 3,
@@ -64,7 +64,7 @@
             "Cuci mobil"
         ],
         "peta": "https://maps.app.goo.gl/Lb6MEYMu4dqSxk9U6",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerjeNN5wbKeJUaK9I6ZAyaSItL88Xd0Wp5BtkqlcgmyPVpgch01U9WWgAZaBLo_IODzcNTsxs_5nuQao79CxMU1ZXGQnoVWrZtXkDDIGCFEBzjGS98xbMqPEbJ0CET2vwD0tn7V3wsvzm8=w408-h725-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34.161.21.jpg"
     },
     {
         "id": 4,
@@ -82,7 +82,7 @@
             "Revvo"
         ],
         "peta": "https://maps.app.goo.gl/cbwWoDQP6QqT1z1Q7",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqCLvoJAjEYlSUOOFlszpEhFnkPqWVN0KbbmF9Siq9pMrTUbWwyykjorPsznlwcgFJkG5TGwSRfZO6BycLK1wBrRSQ2IUwmAF0fUFzK4IwOcmiACV8wyiMN3x25hLtFJubNUk6YSw=w408-h306-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU VIVO Pajajaran.jpg"
     },
     {
         "id": 5,
@@ -104,11 +104,11 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/7sFyk61dSReNWsJB9",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo5eiu9qD-_OOYcQeuWvyg16vQy8WwnbH19k2lwviy9Avlp_0gKq6xj_uDrwXO0sxSnq8kSEIPsKTSLRjGxR6EoImLF5UCgPDA6icobHa52JX4R4cg8cqBfd-QuJP6ZWK2rQwc=w408-h306-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU Pajajaran 34.16102.jpg"
     },
     {
         "id": 6,
-        "nama": "SPBU_Premium Lot of Quota",
+        "nama": "SPBU Premium Lot of Quota",
         "jenis": "Pertamina",
         "alamat": "Jl. Veteran No.62, RT.01/RW.01, Banjar Sari, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16610",
         "lat": -6.594805819792361,
@@ -124,7 +124,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/DxguGbELMBKtawVCA",
-        "gambar": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LWS3tvx8HjSF2oVgPOOFQw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=318.8088&pitch=0&thumbfov=100"
+        "gambar": "/src/assets/images/spbu/SPBU Premium Lot of Quota.jpg"
     },
     {
         "id": 7,
@@ -144,7 +144,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/3x7DmJJM7n7BSbBE7",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqWXHTntq6A24fzdvILK6yIaezV-J5Yq-OQihfSoHVvQx3dco0rGPNqNdHMvmL-Mr21YKrnDH23IXaVDl7SycCdHzu7Lg8avtcJ3HSGlrxcJM3QoxIq2HyeT4kglf8dRZRRvsra=w408-h306-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU 34.16108.jpg"
     },
     {
         "id": 8,
@@ -163,7 +163,7 @@
             "V-Power"
         ],
         "peta": "https://maps.app.goo.gl/fHhkf5znMA9GtdJ28",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqE69uNXvznMuRaKi_SR5eZ7di5WktPRkEUaOFhVpzB1itdRS-HNxpG3iNcgMeA798GGFXOk6EsXVvNbl7YzBMfc8oKupoBcjA0arNOsvK7yrR_tf1wtu0D8fjR9wmkGk2osY7o=w408-h328-k-no"
+        "gambar": "/src/assets/images/spbu/Shell Dr. Semeru-1 Bogor.jpg"
     },
     {
         "id": 9,
@@ -183,7 +183,7 @@
             "Ganti oli"
         ],
         "peta": "https://maps.app.goo.gl/DsBswumhmVGZ6y6U8",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepPyJPk2ko4sOe-uxLVT5PeC7qIlctg_RZIdKGJ8kOsjyXvw7Bg7eiiOieh7_H-RsV9O1lnP_2smRxean0GvVSP-5z1J5l5akosfk3GjJ7PPidSxVHEOZRskX20ooDAYAe_kdtd-LTCK4KN=w408-h306-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU Shell Pajajaran Bogor.jpg"
     },
     {
         "id": 10,
@@ -203,7 +203,7 @@
             "BP diesel"
         ],
         "peta": "https://maps.app.goo.gl/bAZh8APYzJuArBFz7",
-        "gambar": "https://lh3.googleusercontent.com/p/AF1QipOSIYJc_2qWcCS3QsPr3DyXAyNm-HPvcdwSNHYc=w408-h544-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU BP Ahmad Yani.jpg"
     },
     {
         "id": 11,
@@ -225,7 +225,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/nGEqo4vvZ156dEKQ6",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepYlWHMmXnPgivfWV8W_ohXaNkMYCDdrva_YItRtIeu9ezVW_b2YD5bPrUG-SJMv9hNwGNSsTiiRlX7tHP4eIjxHhsJ6j47M76uo2_85bScESdk6eLlWIgyUu4rtTcHZkrx8065qZaqnHi3=w408-h306-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34-16304.jpg"
     },
     {
         "id": 12,
@@ -247,7 +247,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/WtpQvuEFCyA77nxy6",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer1CttZcARmoesKtAviBCFHfqxL9n6oMC1nX0sFRg2MFPDMz0j3UhUiJkRgurA8_QFnyI5JJtJUcdVpI3km_DxKcp8FB6yIirRomaEpyTGv6dzndqec0iRjEF9PRO0nRH2k1u16=w408-h541-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34.161.20.jpg"
     },
     {
         "id": 13,
@@ -269,7 +269,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/pnehmMCXqajo8qxJ6",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqqoLTpZLg8ldh6puetAk77LGFLxFn3HCD3QtcvYjcGiSuJPORRKJuhkPzeqLdB01HKKKAPt1D3_38oty-MtESoMJk2JTx-1IotCK42LJVjb7RRQYUCMCu_dXZtiYOTpf7-qj3tJQ=w408-h544-k-no"   
+        "gambar": "/src/assets/images/spbu/Pertamina SPBU 34.16119.jpg"   
     },
     {
         "id": 14,
@@ -291,7 +291,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/3SSCoEwoyhZV2pss9",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerpn0yOn4NbBv7YDOYSvtdlf_IycNL5KSAa_bcJxZcDquIkuc8IlwUR0nuhP_amNOB3dLFQUWb_9zE0uIJwHwNNN9o_Uu1NK_B9m0K8H3AO03ePMYc7kE-XrkJGH-3QF2tAYR1Dil2o-FWM=w408-h544-k-no"   
+        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34-16938.jpg"   
     },
     {
         "id": 15,
@@ -313,7 +313,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/qvNPmyN3g3hycfVZ8",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep6eLEGaWuuqJ4Deq_ZWyRa_RdbqAW2beOgKhQxj5t5dFEzuX6mXvom2YG2UqbQiE4d4pFEs3WnNYefH1e9AxvKuIM9oWbzChHAHXX74TGPYqgljmi3DjIdRc1mwgLM6-5AB2bhDEgJ1HA=w408-h723-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34.163.01.jpg"
     },
     {
         "id": 16,
@@ -335,7 +335,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/H2re7U4x6mAvdPCZA",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwephnqYAF2eVx6MKvgbf-2WWcvEqcTjQdnAptz6S1LAXy-Qgjeh9podKY62PlSVfaGk5jzyMWTdTi-bNVHmlb_ITuIjfFaGZ7Jrp17iZgi2kIYOLHv6vRQI3GsEmnhulnLofKpS9=w408-h306-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU Keradenan Pertamina 34.16911.jpg"
     },
     {
         "id": 17,
@@ -357,32 +357,10 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/65Gpy34W82ufNNut8",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerAngbINYNopHW-DTS9XFdhI09yauwPKINTzLlMI8xjVTRklAtjdgBKEPooJcsIsENulD6z4Y-SNZHfYGeUne6EzNMj1Ib9cOsq73lr-vJE0slWqyeBFTI1vrI6zpWX7tKM7uw0ePgspbYn=w408-h306-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34.161.09.jpg"
     },
     {
         "id": 18,
-        "nama": "SPBU Pertamina 34.161.09",
-        "jenis": "Pertamina",
-        "alamat": "Jl. KS Tubun No.30, RT.02/RW.01, Cibuluh, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16151",
-        "lat": -6.566040476156047,
-        "lng": 106.81031640430955,
-        "rating": 4.4,
-        "fasilitas": [
-            "ATM",
-            "Pompa angin",
-            "Toilet"
-        ],
-        "penawaran": [
-            "Pertamax",
-            "LPG",
-            "Pertamina Dex",
-            "Solar"
-        ],
-        "peta": "https://maps.app.goo.gl/65Gpy34W82ufNNut8",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerAngbINYNopHW-DTS9XFdhI09yauwPKINTzLlMI8xjVTRklAtjdgBKEPooJcsIsENulD6z4Y-SNZHfYGeUne6EzNMj1Ib9cOsq73lr-vJE0slWqyeBFTI1vrI6zpWX7tKM7uw0ePgspbYn=w408-h306-k-no"
-    },
-    {
-        "id": 19,
         "nama": "SPBU Pertamina COCO 31.161.13",
         "jenis": "Pertamina",
         "alamat": "Jl. KS Tubun No.30, RT.02/RW.01, Cibuluh, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16151",
@@ -401,10 +379,10 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/W73dEXPb2PCMh7dLA",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqDqyzXwvLAlFwoXSRDuWPp1s8lfo4wokqbM8R0lJeAEDO120FyTQ1eLvq0AB5UMOTDzfEX-DYOUGnY_YhnX5D4DZlGIFLRMDqXuh4ZHFzd5NofrUNfU77Xp7PEl6L1sxKVEVVcsIaliiqJ=w426-h240-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU Pertamina COCO 31.161.13.jpg"
     },
     {
-        "id": 20,
+        "id": 19,
         "nama": "SPBU Pertamina 3416922",
         "jenis": "Pertamina",
         "alamat": "Jl. Karadenan, Pasir Jambu, Kec. Sukaraja, Kabupaten Bogor, Jawa Barat 16710",
@@ -423,10 +401,10 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/JD61qT2ZCZrt8cBH6",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqFGL3kZRH0Ne8BbwUtbDwRjW1DXXbNSyVzr_YEwdECdwPpUm-HEoG5HWaPfIBSjZopTZdZxSrZxLcmQowr2I1MGg4bLrAOCiE526R8x6DRyN2cbLE3MTevBBasTc42r9VSGTfz=w426-h240-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU Pertamina 3416922.jpg"
     },
     {
-        "id": 21,
+        "id": 20,
         "nama": "Shell Cibinong",
         "jenis": "Shell",
         "alamat": "Jl. Raya Karadenan, Karadenan, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16913",
@@ -443,30 +421,10 @@
             "V-Power"
         ],
         "peta": "https://maps.app.goo.gl/bUGcJkmmWRP843dq8",
-        "gambar": "https://media.suara.com/pictures/653x366/2025/09/18/70350-ilustrasi-spbu-shell.webp"
+        "gambar": "/src/assets/images/spbu/Shell Cibinong.jpg"
     },
     {
-        "id": 22,
-        "nama": "SPBU Shell Parung-1",
-        "jenis": "Shell",
-        "alamat": "Jl. Raya Parung, Duren Mekar, Kec. Bojongsari, Kota Depok, Jawa Barat 16517",
-        "lat": -6.414289788080112, 
-        "lng": 106.73421788697276,
-        "rating": 4.5,
-        "fasilitas": [
-            "Toilet",
-            "Pompa angin",
-            "Minimarket"
-        ],
-        "penawaran": [
-            "Super",
-            "V-Power"
-        ],
-        "peta": "https://maps.app.goo.gl/usLXafkbw2ATjYah9",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep3t1R937C77piIe983rLWsfWe84sIe_SCGTfiMOcJtlJ5NiXqTZpQLXUTbPDY7dopfsiwoKVA-OWxM1w6LYT0bPnoGa3EnsTVGZKzcTgScYYo3xAf6c8efoV1SXuhTFPvlo1MVKlLrPM1W=w426-h240-k-no"
-    },
-    {
-        "id": 23,
+        "id": 21,
         "nama": "SPBU VIVO Parung",
         "jenis": "VIVO",
         "alamat": "Jl. Raya Parung, Pamegarsari, Kec. Parung, Kabupaten Bogor, Jawa Barat 16330",
@@ -481,10 +439,10 @@
             "Revvo"
         ],
         "peta": "https://maps.app.goo.gl/S21DY2B9hKEAgzEv9",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweplDuoXwZV-kwLA7lS0zPNMVAXtq6vqDid9x5p9p69PpUKRg6tKs-oloEhfvMqrwZt6tbot-KNhfZHdDvG51WCRnI6Al9gDxAgMiw0LjovuvBHrWsKE9bshKCiaX-MKMoiaGWEMTnQP764=w408-h544-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU VIVO Parung.jpg"
     },
     {
-        "id": 24,
+        "id": 22,
         "nama": "SPBU VIVO Bogor",
         "jenis": "VIVO",
         "alamat": "Jl. A. Yani No.16, RT.02/RW.05, Sempur, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",
@@ -499,11 +457,11 @@
             "Revvo"
         ],
         "peta": "https://maps.app.goo.gl/8cAbLCNfmYkpjuFo9",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer7s6G2rodB7lddXb3i0S2AiPb5MoybvOe2CkgwR0ivThLJxsdZ0Op-Vzkd6xxRVCK5fzYz9DDQzUWptz5ns7ckF0ZeM5KG9Auv4EPqmtz08KO1Q9_wAybhIFfa0BkWFyEI-N9lpPUGM5pP=w408-h272-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU VIVO Bogor.jpg"
     },
     {
-        "id": 25,
-        "nama": "SPBU Shell Sentul",
+        "id": 23,
+        "nama": "SPBU VIVO Sentul",
         "jenis": "VIVO",
         "alamat": "Jl. Alternatif Sentul No.39, Cijujung, Kec. Sukaraja, Kabupaten Bogor, Jawa Barat 16710",
         "lat": -6.520796642608308,
@@ -517,10 +475,10 @@
             "Revvo"
         ],
         "peta": "https://maps.app.goo.gl/PNr5BbchrXTvXuxy9",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoXKgSk0wwe_9JWTtc0dp-F5wfuV05NRgoOqF-8hMV5CvNwX_umONnm19Q06aPknqUqlx2Ixnj30eXoH3sPDh-EwuizjAsZBaqnDwVrmjx0d2HggPO-QRuXN81KzxDPJv8ZVEgkAGeBNsEU=w408-h544-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU VIVO Sentul.jpg"
     },
     {
-        "id": 26,
+        "id": 24,
         "nama": "SPBU VIVO Batu Tulis",
         "jenis": "VIVO",
         "alamat": "Jl. Batu Tulis No.56, Batutulis, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16133",
@@ -535,10 +493,10 @@
             "Revvo"
         ],
         "peta": "https://maps.app.goo.gl/PUNgr6DS7e2M5t1i8",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqjNUZ2LzeyjLL9YWj3qdg42D5RIwsMuHxZ5OwfThyjdQVDmenJz-0D8z5-MA-lpSomczVubgmajAgseY_oOgwlsHI9wfTfKAswPBZ_ZX7SCKjkGQPwSrwPMF7XEVZ5xBTeYRc7W4y-5uh8=w426-h240-k-no"
+        "gambar": "/src/assets/images/spbu/SPBU VIVO Batu Tulis.jpg"
     },
     {
-        "id": 27,
+        "id": 25,
         "nama": "BP Soleh Iskandar",
         "jenis": "BP",
         "alamat": "Jl. Sholeh Iskandar, RT.05/RW.04, Cibadak, Tanah Sareal, Kota Bogor, Jawa Barat 16169",
@@ -555,10 +513,10 @@
             "BP diesel"
         ],
         "peta": "https://maps.app.goo.gl/FKiqCgmD36SV8N299",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep7g5InCDj1AKihQ-gM32zUe2kSUQLgLv9_tlkQD7Ght8wGOzNz4LwLzcrzRQPmguax-Csppn4gtDL0SN56YXP31pIGckKnAyU_YucGpy-yALxy5vjqXpqIkx4JS4evfcpeHuDa=w408-h544-k-no"
+        "gambar": "/src/assets/images/spbu/BP Soleh Iskandar.jpg"
     },
     {
-        "id": 28,
+        "id": 26,
         "nama": "BP Alternatif Sentul",
         "jenis": "BP",
         "alamat": "Jl. Alternatif Sentul No.20, Cijujung, Kec. Sukaraja, Kabupaten Bogor, Jawa Barat 16711",
@@ -575,6 +533,129 @@
             "BP diesel"
         ],
         "peta": "https://maps.app.goo.gl/v1MN9cQaCpR3xieP8",
-        "gambar": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqlljFFnzYujq7EwqhpE9Hk_-fknQBTFrMYm0HTT5RhSY1SOqWKPKgMDvwPa-1nAg0eGkHjs9IBvL8Rkg9F_Vmu5Q5VphDou-ubv5z3bAYPOnwOFx2DgVqSFZiFEYD5jqR1BawY=w408-h306-k-no"
+        "gambar": "/src/assets/images/spbu/BP Alternatif Sentul.jpg"
+    },
+    {
+        "id": 27,
+        "nama": "BP Alternatif Cibubur",
+        "jenis": "BP",
+        "alamat": "Jl. Alternatif Cibubur No.KM. 6, Kabupaten, Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat 16967",
+        "lat": -6.3899858566516805,
+        "lng": 106.94937282103544,
+        "rating": 4.5,
+        "fasilitas": [
+            "Pompa angin",
+            "Toilet"
+        ],
+        "penawaran": [
+            "BP-90",
+            "BP diesel"
+        ],
+        "peta": "https://maps.app.goo.gl/CMpo9u8SheEgLhBB9",
+        "gambar": "/src/assets/images/spbu/BP Alternatif Cibubur.jpg"
+    },
+    {
+        "id": 28,
+        "nama": "BP TirePro Pajajaran",
+        "jenis": "BP",
+        "alamat": "Jl. Raya Pajajaran No.69, RT.01/RW.11, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16143",
+        "lat": -6.611252943369411,
+        "lng": 106.81277110000944,
+        "rating": 4.5,
+        "fasilitas": [
+            "Toilet"
+        ],
+        "penawaran": [
+            "BP-90",
+            "BP diesel"
+        ],
+        "peta": "https://maps.app.goo.gl/M4VJxDgHrbHLtw676",
+        "gambar": "/src/assets/images/spbu/BP TirePro Pajajaran.jpg"
+    },
+    {
+        "id": 29,
+        "nama": "SPBU Pertamina 34.163.09",
+        "jenis": "Pertamina",
+        "alamat": "Jl. Raya Parung, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "lat": -6.491550464065573,
+        "lng": 106.7414530467071,
+        "rating": 4.4,
+        "fasilitas": [
+            "Toilet",
+            "Pompa angin",
+            "ATM"
+        ],
+        "penawaran": [
+            "Pertamax",
+            "Pertamina",
+            "LPG",
+            "Solar"
+        ],
+        "peta": "https://maps.app.goo.gl/KTbVc2uzqBjEczNE6",
+        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34.163.09.jpg"
+    },
+    {
+        "id": 30,
+        "nama": "SPBU Bojong Gede Pertamina 34.16123",
+        "jenis": "Pertamina",
+        "alamat": "Jl. Raya Bojong Gede, Bojonggede, Kecamatan Bojonggede, Kabupaten Bogor, Jawa Barat 16922",
+        "lat": -6.482881009049311,
+        "lng": 106.80028100000945,
+        "rating": 4.5,
+        "fasilitas": [
+            "Toilet"
+        ],
+        "penawaran": [
+            "Pertamax",
+            "LPG",
+            "Solar",
+            "Pertamina Dex"
+        ],
+        "peta": "https://maps.app.goo.gl/YbRtr4Ufyx8bF8hSA",
+        "gambar": "/src/assets/images/spbu/SPBU Bojong Gede Pertamina 34.16123.jpg"
+    },
+    {
+        "id": 31,
+        "nama": "SPBU Pertamina 3416941 Al - Muslim",
+        "jenis": "Pertamina",
+        "alamat": "Jl. Tegar Beriman, Bojong Baru, Kecamatan Bojonggede, Kabupaten Bogor, Jawa Barat 16920",
+        "lat": -6.481564176477764,
+        "lng": 106.80853280000944,
+        "rating": 4.5,
+        "fasilitas": [
+            "Toilet",
+            "Pompa angin",
+            "ATM"
+        ],
+        "penawaran": [
+            "Pertamax",
+            "LPG",
+            "Solar",
+            "Pertamina Dex"
+        ],
+        "peta": "https://maps.app.goo.gl/7U1vi9WQDsK4QZ7F6",
+        "gambar": "/src/assets/images/spbu/SPBU Pertamina 3416941 Al - Muslim.jpg"
+    },
+    {
+        "id": 32,
+        "nama": "SPBU Pertamina 34-16715",
+        "jenis": "Pertamina",
+        "alamat": "Jl. Raya Pemda No.1, RT.01/RW.7, Kedunghalang, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16158",
+        "lat": -6.481564176477764,
+        "lng": 106.80853280000944,
+        "rating": 4.4,
+        "fasilitas": [
+            "Toilet",
+            "Pompa angin",
+            "ATM"
+        ],
+        "penawaran": [
+            "Pertamax",
+            "LPG",
+            "Solar",
+            "Pertamina Dex"
+        ],
+        "peta": "https://maps.app.goo.gl/Mxr5QTaHoMDQaqMk9",
+        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34-16715.jpg"
     }
 ]

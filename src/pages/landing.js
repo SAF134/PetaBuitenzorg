@@ -6,7 +6,7 @@ import hotelsData from '../../data/hotels.json';
 import hospitalsData from '../../data/hospitals.json';
 import mallsData from '../../data/malls.json';
 import spbuData from '../../data/gasstations.json';
-import logoImg from '../assets/Logo.png';
+import logoImg from '../assets/images/icon/Logo.png';
 
 export function renderLanding(container) {
   container.innerHTML = `
