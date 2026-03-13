@@ -21,12 +21,40 @@ function triggerHaptic(duration = 10) {
     }
 }
 
+/**
+ * Creates a material ripple effect on an element
+ * @param {PointerEvent} e 
+ * @param {HTMLElement} target 
+ */
+function createRipple(e, target) {
+    target.classList.add('ripple-element');
+    
+    const ripple = document.createElement('span');
+    ripple.className = 'ripple';
+    
+    const rect = target.getBoundingClientRect();
+    const size = Math.max(rect.width, rect.height);
+    const x = e.clientX - rect.left - size / 2;
+    const y = e.clientY - rect.top - size / 2;
+    
+    ripple.style.width = ripple.style.height = `${size}px`;
+    ripple.style.left = `${x}px`;
+    ripple.style.top = `${y}px`;
+    
+    target.appendChild(ripple);
+    
+    ripple.addEventListener('animationend', () => {
+        ripple.remove();
+    });
+}
+
 // Global Interaction Monitor for Haptic Feedback
 document.addEventListener('pointerdown', (e) => {
     // List of interactive selectors
     const selectors = [
         '.btn', 
-        '.navbar__item', 
+        '.navbar__item:not(#nav-explore)', // Exclude explore container from ripple clipping
+        '.navbar__explore-btn', // Apply ripple directly to the button instead
         '.category-card', 
         '.map-page__filter-btn', 
         '.detail-page__back',
@@ -36,6 +64,9 @@ document.addEventListener('pointerdown', (e) => {
     
     const target = e.target.closest(selectors.join(', '));
     if (target) {
+        // Create Ripple Effect
+        createRipple(e, target);
+
         // Subtle haptic for buttons (10ms)
         // Stronger haptic for major actions (30ms)
         const isMajorAction = target.classList.contains('btn--primary') || target.classList.contains('category-card');
@@ -187,6 +218,25 @@ async function init() {
     // Re-initialize Lucide icons
     if (window.lucide) {
         window.lucide.createIcons();
+    }
+
+    // Scroll to Top Logic
+    const scrollTopBtn = document.getElementById('scroll-top');
+    if (scrollTopBtn) {
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 300) {
+                scrollTopBtn.classList.add('visible');
+            } else {
+                scrollTopBtn.classList.remove('visible');
+            }
+        });
+
+        scrollTopBtn.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
     }
 }
 

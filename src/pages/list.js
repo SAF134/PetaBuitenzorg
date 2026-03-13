@@ -2,7 +2,7 @@
  * PetaBuitenzorg — List Page (Hotels & Hospitals)
  */
 
-import { getHotels, getHospitals, getMalls, getGasStations, formatPrice, renderStars, getStarLabel, userLocation, calculateDistance, formatDistance, persistedFilters } from '../data.js';
+import { getHotels, getHospitals, getMalls, getGasStations, getAllPlaces, formatPrice, renderStars, getStarLabel, userLocation, calculateDistance, formatDistance, persistedFilters } from '../data.js';
 import hotelsData from '../../data/hotels.json';
 import gasStationsData from '../../data/gasstations.json';
 
@@ -48,6 +48,7 @@ export function renderList(container, type = 'hotel') {
             <button id="search-clear" class="search-input__clear" style="display: ${currentFilters.search ? 'flex' : 'none'}" title="Bersihkan pencarian">
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
             </button>
+            <div class="search-suggestions" id="search-suggestions"></div>
           </div>
         </div>
         <div class="list-page__filter-bar" id="filter-bar">
@@ -279,6 +280,8 @@ function renderCards(type) {
   else if (isMall) { data = getMalls(currentFilters); totalData = getMalls(); }
   else if (isSPBU) { data = getGasStations(currentFilters); totalData = getGasStations(); }
 
+  updateFilterIndicators(type);
+
   const cardsContainer = document.getElementById('cards-container');
   const countEl = document.getElementById('list-count');
   const countBadge = document.getElementById('list-count-badge');
@@ -288,17 +291,31 @@ function renderCards(type) {
     if (countBadge) countBadge.classList.add('visible');
   }
 
-  if (data.length === 0) {
-    cardsContainer.innerHTML = `
-      <div class="empty-state">
-        <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/><line x1="8" y1="8" x2="14" y2="14"/><line x1="14" y1="8" x2="8" y2="14"/></svg>
-        <p>Tidak ditemukan hasil yang cocok</p>
+  // Show skeleton if it's a "fresh" load or filter change
+  cardsContainer.innerHTML = Array(3).fill(0).map(() => `
+    <div class="skeleton-card">
+      <div class="skeleton-card__img skeleton"></div>
+      <div class="skeleton-card__info">
+        <div class="skeleton-card__title skeleton"></div>
+        <div class="skeleton-card__meta skeleton"></div>
+        <div class="skeleton-card__address skeleton"></div>
       </div>
-    `;
-    return;
-  }
+    </div>
+  `).join('');
 
-  cardsContainer.innerHTML = data.map(item => {
+  // Use a small timeout to let the skeleton be visible briefly for "speed" feel
+  setTimeout(() => {
+    if (data.length === 0) {
+      cardsContainer.innerHTML = `
+        <div class="empty-state">
+          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/><line x1="8" y1="8" x2="14" y2="14"/><line x1="14" y1="8" x2="8" y2="14"/></svg>
+          <p>Tidak ditemukan hasil yang cocok</p>
+        </div>
+      `;
+      return;
+    }
+
+    cardsContainer.innerHTML = data.map((item, index) => {
     const detailUrl = `#/${type}/${item.id}`;
 
     let badgeHtml = '';
@@ -348,7 +365,7 @@ function renderCards(type) {
     }
 
     return `
-      <a href="${detailUrl}" class="place-card gpu-accelerated" id="card-${type}-${item.id}">
+      <a href="${detailUrl}" class="place-card gpu-accelerated" id="card-${type}-${item.id}" style="animation-delay: ${index * 0.05}s">
         <div class="img-wrapper skeleton" style="width: 100px; height: 100px; border-radius: var(--radius-md); flex-shrink: 0;">
           <img
             class="place-card__image img-fade-in"
@@ -380,7 +397,44 @@ function renderCards(type) {
         </div>
       </a>
     `;
-  }).join('');
+    }).join('');
+  }, 150); // Small delay to show skeleton
+}
+
+function updateFilterIndicators(type) {
+  const isHotel = type === 'hotel';
+  const isRS = type === 'rumah-sakit';
+  const isSPBU = type === 'spbu';
+
+  // Helper to toggle active-filter class
+  const toggleDot = (id, isActive) => {
+    const el = document.getElementById(id);
+    if (!el) return;
+    const btn = el.querySelector('.filter-custom-btn, .filter-multi-btn, .filter-select');
+    if (btn) {
+      if (isActive) btn.classList.add('active-filter');
+      else btn.classList.remove('active-filter');
+    }
+  };
+
+  if (isHotel) {
+    toggleDot('kategori-dropdown', currentFilters.kategori !== null);
+    toggleDot('harga-dropdown', currentFilters.harga !== null);
+    toggleDot('rating-dropdown', currentFilters.minRating !== null);
+    toggleDot('fasilitas-dropdown', currentFilters.fasilitas.length > 0);
+  } else if (isRS) {
+    toggleDot('jenis-dropdown', currentFilters.jenis !== null);
+    toggleDot('kelas-dropdown', currentFilters.kelas !== null);
+    toggleDot('rating-dropdown-rs', currentFilters.minRating !== null);
+  } else if (isSPBU) {
+    toggleDot('jenis-spbu-dropdown', currentFilters.jenis !== null);
+    toggleDot('rating-dropdown', currentFilters.minRating !== null);
+    toggleDot('fasilitas-spbu-dropdown', currentFilters.fasilitas.length > 0);
+    toggleDot('penawaran-spbu-dropdown', currentFilters.penawaran.length > 0);
+  }
+
+  // Distance filter (shared)
+  toggleDot('distance-dropdown', currentFilters.sortBy !== 'rating');
 }
 
 function setupListEvents(type) {
@@ -391,14 +445,49 @@ function setupListEvents(type) {
   // Search
   const searchInput = document.getElementById('search-input');
   const searchClear = document.getElementById('search-clear');
+  const suggestionsBox = document.getElementById('search-suggestions');
   let debounceTimer;
 
+  const allData = getAllPlaces();
+  const flatData = [
+    ...allData.hotels.map(h => ({ ...h, typeLabel: 'Hotel', icon: 'bed-double' })),
+    ...allData.hospitals.map(h => ({ ...h, typeLabel: 'RS', icon: 'heart-pulse' })),
+    ...allData.malls.map(m => ({ ...m, typeLabel: 'Mall', icon: 'shopping-bag' })),
+    ...allData.gasStations.map(g => ({ ...g, typeLabel: 'SPBU', icon: 'fuel' }))
+  ];
+
+  const hideSuggestions = () => {
+    suggestionsBox.classList.remove('active');
+    suggestionsBox.innerHTML = '';
+  };
+
   searchInput.addEventListener('input', (e) => {
-    const value = e.target.value;
+    const value = e.target.value.trim();
     
     // Toggle clear button
     if (searchClear) {
       searchClear.style.display = value ? 'flex' : 'none';
+    }
+
+    if (value.length >= 3) {
+      const matches = flatData.filter(item => 
+        item.nama.toLowerCase().includes(value.toLowerCase())
+      ).slice(0, 5); // Limit to top 5
+
+      if (matches.length > 0) {
+        suggestionsBox.innerHTML = matches.map(item => `
+          <div class="search-suggestion-item" data-name="${item.nama}">
+            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            <div class="search-suggestion-item__text">${item.nama}</div>
+            <div class="search-suggestion-item__type">${item.typeLabel}</div>
+          </div>
+        `).join('');
+        suggestionsBox.classList.add('active');
+      } else {
+        hideSuggestions();
+      }
+    } else {
+      hideSuggestions();
     }
 
     clearTimeout(debounceTimer);
@@ -408,15 +497,35 @@ function setupListEvents(type) {
     }, 250);
   });
 
+  suggestionsBox.addEventListener('click', (e) => {
+    const item = e.target.closest('.search-suggestion-item');
+    if (item) {
+      const name = item.dataset.name;
+      searchInput.value = name;
+      currentFilters.search = name;
+      hideSuggestions();
+      renderCards(type);
+      if (searchClear) searchClear.style.display = 'flex';
+    }
+  });
+
   if (searchClear) {
     searchClear.addEventListener('click', () => {
       searchInput.value = '';
       currentFilters.search = '';
       searchClear.style.display = 'none';
+      hideSuggestions();
       searchInput.focus();
       renderCards(type);
     });
   }
+
+  // Close suggestions on outside click
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.search-input')) {
+      hideSuggestions();
+    }
+  });
 
   let activeFilterId = null;
 
