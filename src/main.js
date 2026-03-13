@@ -53,8 +53,6 @@ document.addEventListener('pointerdown', (e) => {
     // List of interactive selectors
     const selectors = [
         '.btn', 
-        '.navbar__item:not(#nav-explore)', // Exclude explore container from ripple clipping
-        '.navbar__explore-btn', // Apply ripple directly to the button instead
         '.category-card', 
         '.map-page__filter-btn', 
         '.detail-page__back',
