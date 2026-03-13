@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PetaBuitenzorg</string>
+    <string name="title_activity_main">PetaBuitenzorg</string>
+    <string name="package_name">com.petabuitenzorg.app</string>
+    <string name="custom_url_scheme">com.petabuitenzorg.app</string>
+</resources>

@@ -388,8 +388,11 @@ function addMarkers() {
   markersLayer = L.markerClusterGroup({
     showCoverageOnHover: false,
     zoomToBoundsOnClick: true,
-    maxClusterRadius: 50,
+    maxClusterRadius: 40, // Smaller radius for better precision vs performance balance
     chunkedLoading: true,
+    chunkInterval: 100, // Process more markers per interval
+    disableClusteringAtZoom: 18,
+    spiderfyOnMaxZoom: true,
     iconCreateFunction: function (cluster) {
       const childCount = cluster.getChildCount();
       let c = ' custom-marker-cluster';

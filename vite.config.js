@@ -9,7 +9,19 @@ export default defineConfig({
     ],
     build: {
         outDir: 'dist',
-        minify: 'esbuild',
+        minify: 'terser',
+        terserOptions: {
+            compress: {
+                drop_console: true,
+                drop_debugger: true,
+                pure_funcs: ['console.log']
+            },
+            format: {
+                comments: false
+            }
+        },
+        reportCompressedSize: false,
+        sourcemap: false,
         cssCodeSplit: true,
         rollupOptions: {
             output: {
@@ -17,9 +29,12 @@ export default defineConfig({
                     if (id.includes('node_modules')) {
                         return 'vendor';
                     }
-                }
+                },
+                entryFileNames: 'assets/[name].[hash].js',
+                chunkFileNames: 'assets/[name].[hash].js',
+                assetFileNames: 'assets/[name].[hash].[ext]'
             }
         },
-        chunkSizeWarningLimit: 1000,
+        chunkSizeWarningLimit: 600,
     },
 });

@@ -10,6 +10,7 @@ import { renderDetail } from './pages/detail.js';
 import { renderMap } from './pages/map.js';
 import { initLocation } from './data.js';
 import { StatusBar, Style } from '@capacitor/status-bar';
+import { App } from '@capacitor/app';
 
 /**
  * Trigger haptic feedback (vibration) on mobile devices
@@ -213,7 +214,50 @@ async function init() {
     });
     router.start();
 
-    // Re-initialize Lucide icons
+    // Toast logic for exit confirmation
+    let backButtonPressedOnce = false;
+    let backButtonTimeout;
+
+    function showToast(message) {
+        let toastContainer = document.querySelector('.toast-container');
+        if (!toastContainer) {
+            toastContainer = document.createElement('div');
+            toastContainer.className = 'toast-container';
+            toastContainer.innerHTML = '<div class="toast"></div>';
+            document.body.appendChild(toastContainer);
+        }
+        const toast = toastContainer.querySelector('.toast');
+        toast.textContent = message;
+        
+        toastContainer.classList.add('active');
+        setTimeout(() => {
+            toastContainer.classList.remove('active');
+        }, 2000);
+    }
+
+    // Handle Hardware Back Button for Android
+    App.addListener('backButton', ({ canGoBack }) => {
+        const path = window.location.hash || window.location.pathname;
+        const isHome = path === '#/' || path === '/' || path === '';
+
+        if (isHome) {
+            if (backButtonPressedOnce) {
+                App.exitApp();
+            } else {
+                backButtonPressedOnce = true;
+                showToast('Tekan sekali lagi untuk keluar');
+                clearTimeout(backButtonTimeout);
+                backButtonTimeout = setTimeout(() => {
+                    backButtonPressedOnce = false;
+                }, 2000);
+            }
+        } else {
+            // Otherwise, go back in history
+            window.history.back();
+        }
+    });
+
+    // Handle Hardware Back Button for Android (Legacy if no App plugin, but we have it now)
     if (window.lucide) {
         window.lucide.createIcons();
     }

@@ -24,7 +24,7 @@
         ],
         "pemesanan": "https://www.traveloka.com/id-id/hotel/indonesia/hotel-salak-the-heritage-1000000476333",
         "peta": "https://maps.app.goo.gl/uPLKy8iC2isetvNP6",
-        "gambar": "/src/assets/images/hotel/Hotel Salak The Heritage.webp"
+        "gambar": "/images/hotel/Hotel Salak The Heritage.webp"
     },
     {
         "id": 2,
@@ -42,7 +42,7 @@
         ],
         "pemesanan": "https://www.tiket.com/id-id/hotel/indonesia/rumah-verde-412001639108042403",
         "peta": "https://maps.app.goo.gl/5HAaGU3bXHz3rF3XA",
-        "gambar": "/src/assets/images/hotel/Rumah Verde.webp"
+        "gambar": "/images/hotel/Rumah Verde.webp"
     },
     {
         "id": 3,
@@ -71,7 +71,7 @@
         ],
         "pemesanan": "https://www.tiket.com/id-id/hotel/indonesia/the-1o1-bogor-suryakancana-108001534490321972",
         "peta": "https://maps.app.goo.gl/W9ndfketBx1hxVnT9",
-        "gambar": "/src/assets/images/hotel/THE 101 Bogor Suryakancana.webp"
+        "gambar": "/images/hotel/THE 101 Bogor Suryakancana.webp"
     },
     {
         "id": 4,
@@ -99,7 +99,7 @@
         ],
         "pemesanan": "https://www.traveloka.com/id-id/hotel/search?spec=22-03-2026.23-03-2026.1.1.HOTEL_GEO.103831.Jawa%20Barat.2&hotelId=3000010001750",
         "peta": "https://maps.app.goo.gl/5a6ezt1UcwXMApQPA",
-        "gambar": "/src/assets/images/hotel/Royal Hotel Bogor.webp"
+        "gambar": "/images/hotel/Royal Hotel Bogor.webp"
     },
     {
         "id": 5,
@@ -125,7 +125,7 @@
         ],
         "pemesanan": "https://www.traveloka.com/id-id/hotel/indonesia/sahira-butik-hotel-paledang-3000010007512",
         "peta": "https://maps.app.goo.gl/DJrzc31ijFWJe5rs7",
-        "gambar": "/src/assets/images/hotel/Sahira Butik Hotel Paledang.webp"
+        "gambar": "/images/hotel/Sahira Butik Hotel Paledang.webp"
     },
     {
         "id": 6,
@@ -143,7 +143,7 @@
         ],
         "pemesanan": "https://www.reddoorz.com/id-id/hotel/indonesia/bogor/bogor-tengah/paledang/wisma-juanda-bogor-redpartner?check_in_date=22-03-2026&check_out_date=23-03-2026&rooms=1&sort_by=popular&order_by=desc&currency=idr&gha_source=true&guest=2",
         "peta": "https://maps.app.goo.gl/Hz46gqvf1sscmUHK7",
-        "gambar": "/src/assets/images/hotel/Wisma Juanda.webp"
+        "gambar": "/images/hotel/Wisma Juanda.webp"
     },
     {
         "id": 7,
@@ -165,7 +165,7 @@
         ],
         "pemesanan": "https://www.traveloka.com/id-id/hotel/indonesia/new-ayuda-hotel-bogor-3000010002653",
         "peta": "https://maps.app.goo.gl/nqoqZfgtVx7C1GYv9",
-        "gambar": "/src/assets/images/hotel/New Ayuda Bogor Hotel.webp"
+        "gambar": "/images/hotel/New Ayuda Bogor Hotel.webp"
     },
     {
         "id": 8,
@@ -194,7 +194,7 @@
         ],
         "pemesanan": "https://www.novotelbogor.com/id/",
         "peta": "https://maps.app.goo.gl/niXgZJK7Ayq9uos77",
-        "gambar": "/src/assets/images/hotel/Hotel Novotel Bogor Golf Resort and Convention Center.webp"
+        "gambar": "/images/hotel/Hotel Novotel Bogor Golf Resort and Convention Center.webp"
     },
     {
         "id": 9,
@@ -220,7 +220,7 @@
         ],
         "pemesanan": "https://www.traveloka.com/id-id/hotel/search?spec=22-03-2026.23-03-2026.1.1.HOTEL_GEO.103831.Jawa%20Barat.2&hotelId=9000006829636&contexts=%7B%22accessCode%22:%2290975GHAD1305desktop%22%2C%22metasearchRequestId%22%3A%229c72de20-39c6-4b65-bdc4-d9428153cc21%22%2C%22plc%22%3A%22HH5uwnGdLnPKRe%2Fqv7id5ADEzIVYTBfRzyspLYRnHTS2RJHH0QKOcvo1fq0p8nGApf2DTw8OI%2F%2Bls5R69SLWLw%3D%3D%22%7D&metasearchId=GoogleHotelAdsUser&metasearchRateId=desktop&metasearchRatekey=sgyUU2M0LrnnpXh1LPwoI&priceDisplay=TOTAL&metasearchRefid=12345678910abcdefghijk@-&adType=0&PPA=0&hotelCampaign=1",
         "peta": "https://maps.app.goo.gl/km8y58KVW9NCDjtx7",
-        "gambar": "/src/assets/images/hotel/Bogor Valley Hotel.webp"
+        "gambar": "/images/hotel/Bogor Valley Hotel.webp"
     },
     {
         "id": 10,
@@ -243,7 +243,7 @@
         ],
         "pemesanan": "https://www.traveloka.com/id-id/hotel/search?spec=22-03-2026.23-03-2026.1.1.HOTEL_GEO.103831.Jawa%20Barat.2&hotelId=9000000808521&contexts=%7B%22accessCode%22:%2290975GHAD1305desktop%22%2C%22metasearchRequestId%22%3A%221e73c162-98b1-4c5c-99f5-64f7e7644037%22%2C%22plc%22%3A%22HH5uwnGdLnPKRe%2Fqv7id5ADEzIVYTBfRzyspLYRnHTQVkSNiOZ%2BsPICbxpN4LS170mwoc9SsHBlUo2l4kxFSQA%3D%3D%22%7D&metasearchId=GoogleHotelAdsUser&metasearchRateId=desktop&metasearchRatekey=sgyUU2M0LrnnpXh1LPwoI&priceDisplay=TOTAL&metasearchRefid=12345678910abcdefghijk@-&adType=0&PPA=0&hotelCampaign=1",
         "peta": "https://maps.app.goo.gl/qAd29WDn5raCWLyk6",
-        "gambar": "/src/assets/images/hotel/Pendopo 45 Resort.webp"
+        "gambar": "/images/hotel/Pendopo 45 Resort.webp"
     },
     {
         "id": 11,
@@ -266,7 +266,7 @@
         ],
         "pemesanan": "https://www.agoda.com/id-id/papyrus-tropical-hotel/hotel/bogor-id.html?countryId=192&finalPriceView=1&isShowMobileAppPrice=false&cid=1917614&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-03-22&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&los=1&searchrequestid=008b0110-8d44-446c-9bd2-0f3fa8ea64c5&ds=peYWX%2Fmz3ShaDD0g",
         "peta": "https://maps.app.goo.gl/RYsEKo3qKc2vsKCfA",
-        "gambar": "/src/assets/images/hotel/Papyrus Tropical Hotel.webp"
+        "gambar": "/images/hotel/Papyrus Tropical Hotel.webp"
     },
     {
         "id": 12,
@@ -293,7 +293,7 @@
         ],
         "pemesanan": "https://www.agoda.com/id-id/swiss-belcourt-bogor/hotel/bogor-id.html?countryId=192&finalPriceView=1&isShowMobileAppPrice=false&cid=1917614&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-03-22&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&los=1&searchrequestid=f8e9973d-cb3f-4ecd-9694-ede3ac702448&ds=OAL%2Fz%2BfGDtwpLmPg",
         "peta": "https://maps.app.goo.gl/C3gV2wbpRxnCZNqg8",
-        "gambar": "/src/assets/images/hotel/Swiss Belcourt Bogor.webp"
+        "gambar": "/images/hotel/Swiss Belcourt Bogor.webp"
     },
     {
         "id": 13,
@@ -319,7 +319,7 @@
         ],
         "pemesanan": "https://www.traveloka.com/id-id/hotel/detail?spec=22-03-2026.23-03-2026.1.1.HOTEL.9000005648563.Bogor%20Icon%20Condotel%20by%20Holla.2&loginPromo=1&prevSearchId=1859271053908407209&mToken=f0KGf5MP9oxpzCmKIQhZcYXrD0psL4BejV0ElI5mOR3AnR7JWCzy%2FU1PZitO%2BU51DEJELOWpLfIwKO3jJ0vodw%3D%3D&metasearchRateId=desktop&priceDisplay=TOTAL&contexts=%7B%22accessCode%22%3A%2290975GHAD1305desktop%22%2C%22metasearchRequestId%22%3A%2240d3a36b-a1b4-42d7-9272-53a5a54a5460%22%2C%22plc%22%3A%22HH5uwnGdLnPKRe%2Fqv7id5ADEzIVYTBfRzyspLYRnHTReZIfHaO6X7brPwNhkOhrkl2XfH1xtjWLbKJZmm%2FFQuA%3D%3D%22%2C%22inventoryRateKey%22%3A%22povEwB3ZzsU2C6pd%2B6MdUxPQfH0zjQrhnrQN8muKP1n1j8oI2S7t6sAiHAWp54qwfwxXnYiRzoxM4HX9sDmt9%2FAm1AYn3MeGz8Xcpq5hCtivnH0Douq%2FhMXyKU%2FjsMKO%2FjV5U7X2LZVh8S4T2k6dtX%2FiBpLtGB%2Bi5u4WIT%2BTIRzGWEHYNmdNOW6Lw77bbFgi2Pi3z4MT2Yab58uhsPpOSwIZ6sFzkvfh1WP16UQxQRS2NuB7LdeRZ8gJop0KpIspCxP0TSZyhe2LHtOv9COMQ3Iszcc6LKpkSVc3orX4bOIi7jynOn0xE8qttZ3piHMpibm5%2FTKRpeQJQX8%2BXE00gKfDX7fhXxXi%2FFDIIqXrHASUrB8p2PShM8RJTUH9V0T%2Bucfec%2FAjm%2Bcm%2FHc%2F8TlP6lNoh2SjIYlldvlF2NnTIqa%2B%2BzsdSaIlUB2b09XWSg0lWiOtpx7Iqs1Ga8ljcLgBE2%2BbOkoHcgnJx0Jx39M%2B%2F3FaI62nHsiqzUZryWNwuAETFEyNjhEfyeD9qP4iOjhvCn%2BdQpdNJ5Ui6adFx0wQ6YFyVp5kAsgP3PeTg4vMPsUsVEbFjxW5%2F2EtiBLoVWJpbCrG53ANDaQSxM%2FpII6buPb2G09TYA%2BNJS7AHOEnK%2F7G1e6D6pqWqRzub%2FiTreEo%2B2tjtJgafr8VGGIkrvIulp5gFAAG9yrr8pK2W2oE6a%2FY9J9R2kjaGQlWV4hSPHs1dqQVG4ROEPMJEiY1SZUIDHezCqvKhiWl0UJUwrmXOHn4jd%2F9n8cbPNZ0ZEh4ZpboKgM1OVXOCEwRFtZm6qIgy8ztbwtOxyLL4mM8B8rgzbVQyLkhdeCz2hIL7RRCWnzld%2BggB40ysclGVcCZOFIq%2BFxFXuPYdvI4BsXb7v8kuVKm0yVj8EIVICxC4wB2Y%2BPjTzlo1Ug5G329DoYqctWNWVOp8JHmzmNEM7TDLLAXJyLkV%2BOE1PuQco0LKqvoX28Y4eNA%2Fl6BNBqbRFEU%2BChIzZTetsVpgqD51k2%2F8c9okzZyT2k0qFwC9VEcDldApeKvor0TRCBLZrcu65YNN8%2FD99lJICFkhCab%2Bdirte2CHKs2Li08nWXaf7zYiiWBtE9b4eWIRBFGidII2hvVIRC3oBfYg376RWHlsj5lDoXeMYBonS%2BFqzXK7RHFNOmK0cyigZDKOWVhL8RjAWgIXIv%2BK7w%2B2yTBtF5%2BrWgXjNlJiqazpBDNSyJPe59B4r80mdfStbC5q5lVgE%2Fqc2p9RnQe0EeKwDDtfDob1FUDgtm4gUprjihoBQawZhtPvuRdgHQWFaqkYF4sCOwPOXwBFUAAkxsD8RoFbuzOsQI71C5u0PO99RU5kxzj7FlgXYWCln3pY0t%2Bs8e0fPbibEi3VebPJfhJk0a133QF%2FvsPrOJVtF9tW%2FcDUeMEJVs7PuPKo%2BkEHScb%2FtY2cjhzAJLGYdL0ARHQZ9gpK%2BLwSxY7U9ZDpZQOvG5dhgKRajTmFBxPJ2dn3r4xbc8Zb90AYHNVy5xPxSOCFVpVfRhA6sI%2FE5FGM11NokJVtnCc21kHsfgFiQ7txyB5FkGw7mwFxdP8blyFKTdy0WJBqk7YcVGv1lf6w3qg6tOyUQJdX6hRZjLTpLC1biZkvHEwusos36KtIzluXL8j3PqLznVAg47KVXJ2MBoL3Uaqjji27h4KZieWD5hfaN9ioPWPbSDvgWxPa0H6M4YWKPfSvkEHBYFYPIQDrD7ahhtYWsuHcc5gZk6%2FUflV990Q6NfqHkYfvKCF7%2FMRqhWgUUDswIsD7KYm0WVPu2BCUIER0oodRpErrbiscIn96C6vafNdX7mZdeazbOC22iB3o4z4xpSMKeYkovHoZDidR5j5bx0K3grnUcsdb6LOpu67eSR0tRnN6Ts6nk7hm5g2cKoCSqbUqW6uBe7WARak0Fs54eBoGF9PWACS7Iy7Bfv1s4wtk8h6TCjtaumBeZyrUWtTS2IpsIxiCPn6XbcJcfdfMr9%2BN99sKEV80l8HRk9rOXT%2FLR5HssPPfO8mAg49kAWKuoXoP6zyH%2BVK35ZKpmyBiLp3j3qdw%2FdsYeJ1CWncMnCSUg5D9a50TplcyQaDT20SW9v07Gf7fmwzUAOiXjTW15xJfAbZ17VQ2ps7803btbYEVJSz79175fenO4xncpKfNqIaZIICsIHPX7eSSO0v8sZUMyD96VHf3NKqiWJ4sdL4xwN73CaJS4sRY1PyYjis6W2KghuRPcqKi%2FR7W%2FwLrIrdq7DyCsUoWgWIWYb2FZ18fNv9vayuep8m82I%3D%22%7D&srss=1",
         "peta": "https://maps.app.goo.gl/7b46cr7MucSfGBQJ6",
-        "gambar": "/src/assets/images/hotel/Bogor Icon Hotel and Convention.webp"
+        "gambar": "/images/hotel/Bogor Icon Hotel and Convention.webp"
     },
     {
         "id": 14,
@@ -347,7 +347,7 @@
         ],
         "pemesanan": "https://www.agoda.com/id-id/salak-padjadjaran-hotel/hotel/bogor-id.html?countryId=192&finalPriceView=1&isShowMobileAppPrice=false&cid=1917614&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-03-22&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&los=1&searchrequestid=e43015d8-4b50-420f-9af9-465cf8df90f8&ds=MhhoRbzTYLfmjyFn",
         "peta": "https://maps.app.goo.gl/fLyZwmmbQpoAY8oe7",
-        "gambar": "/src/assets/images/hotel/Grande Padjadjaran Hotel Bogor.webp"
+        "gambar": "/images/hotel/Grande Padjadjaran Hotel Bogor.webp"
     },
     {
         "id": 15,
@@ -374,7 +374,7 @@
         ],
         "pemesanan": "https://www.tiket.com/id-id/hotel/indonesia/bigland-bogor-hotel-powered-by-archipelago-707001720433418972?room=1&adult=2&checkin=2026-03-22&checkout=2026-03-23&utm_external=aff&searchSessionId=129554A9-27FC-4AF6-8E93-046C9D1A876E&referrer=https%3A%2F%2Fwww.tiket.com%2Fid-id%2Fhotel%2Fsearch%3FhotelID%3Dfb49abd9-a3af-4618-87ea-0cee9753572f%26checkin%3D2026-03-22%26checkout%3D2026-03-23%26adult%3D2%26country%3DID%26device%3Ddesktop%26isAat%3Dtrue%26utm_source%3Dgoogle-hotel%26utm_term%3Dfb49abd9-a3af-4618-87ea-0cee9753572f%26utm_medium%3Daff-meta%26utm_campaign%3DGoogle-Hotel-0023-B2B-none-hotel%26utm_external%3Daff%26tag_meta_id%3D34412887%26tag_meta_type%3Dgoogle-hotel%26isRedirect%3Dtrue%26currency%3DIDR%26id%3Dbigland-bogor-hotel-powered-by-archipelago-707001720433418972%26type%3DHOTEL%26room%3D1%26searchSessionId%3D129554A9-27FC-4AF6-8E93-046C9D1A876E%26q%3DBogor%2BTengah&utm_page=searchResultPage&tag_meta_id=34412887&tag_meta_type=google-hotel&currency=IDR",
         "peta": "https://maps.app.goo.gl/H3ZBfFxFyrZgFKHv6",
-        "gambar": "/src/assets/images/hotel/Bigland Bogor Hotel.webp" 
+        "gambar": "/images/hotel/Bigland Bogor Hotel.webp" 
     },     
     {
         "id": 16,
@@ -401,7 +401,7 @@
         ],
         "pemesanan": "https://www.tiket.com/id-id/hotel/indonesia/the-sahira-hotel-806001749462007924?adult=1&room=1&source=global_search&tag_meta_id=34412887&tag_meta_type=google-hotel&currency=IDR",
         "peta": "https://maps.app.goo.gl/Re6JkZF7RojZBYG29",
-        "gambar": "/src/assets/images/hotel/The Sahira Hotel.webp"
+        "gambar": "/images/hotel/The Sahira Hotel.webp"
     },
     {
         "id": 17,
@@ -423,7 +423,7 @@
         ],
         "pemesanan": "https://www.agoda.com/id-id/papaho-hotel-h24134667/hotel/bogor-id.html?countryId=192&finalPriceView=1&isShowMobileAppPrice=false&cid=1917614&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-03-22&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&tspTypes=6&los=1&searchrequestid=2fd30d92-3cbc-4707-80a3-bb3da7f57af7&ds=Ya%2BWa65pTm92cr5o",
         "peta": "https://maps.app.goo.gl/dnfC4455wMvtcRys9",
-        "gambar": "/src/assets/images/hotel/Papaho Hotel.webp"
+        "gambar": "/images/hotel/Papaho Hotel.webp"
     },
     {
         "id": 18,
@@ -450,7 +450,7 @@
         ],
         "pemesanan": "https://www.agoda.com/id-id/rion-hostel-bogor/hotel/bogor-id.html?countryId=192&finalPriceView=1&isShowMobileAppPrice=false&cid=1917614&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-03-22&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&los=1&searchrequestid=de08e24e-20cb-4cea-b619-8b46a9759130&ds=eqn%2Bj8C0YLK8gbGC",
         "peta": "https://maps.app.goo.gl/HLRvEvPmCtwWR97HA",
-        "gambar": "/src/assets/images/hotel/Rion Bogor Hostel.webp"
+        "gambar": "/images/hotel/Rion Bogor Hostel.webp"
     },
     {
         "id": 19,
@@ -473,7 +473,7 @@
         ],
         "pemesanan": "https://www.traveloka.com/id-id/hotel/detail?spec=22-03-2026.23-03-2026.1.1.HOTEL.1000000473846.Amaris%20Hotel%20Pakuan%20Bogor.2&loginPromo=1&prevSearchId=1859468699215354956&mToken=f0KGf5MP9oxpzCmKIQhZcYXrD0psL4BejV0ElI5mOR0fLKvZjO0OKD4gpWXJ65j9SmxYZ%2FK1u0dffV7JQy6h3w%3D%3D&metasearchRateId=desktop&priceDisplay=TOTAL&contexts=%7B%22accessCode%22%3A%2290975GHAD1305desktop%22%2C%22metasearchRequestId%22%3A%225caf8ad2-077e-4b48-b701-8046da186f27%22%2C%22plc%22%3A%22HH5uwnGdLnPKRe%2Fqv7id5ADEzIVYTBfRzyspLYRnHTSZQSt44bpMAreT4Kvifbo7lxTFq5oXAqyfvn0TVlEx%2Bg%3D%3D%22%2C%22inventoryRateKey%22%3A%22povEwB3ZzsU2C6pd%2B6MdU13LUNuufACdbU0usK5vg0fctCA63Z3EGzL3zPWvKsekfwxXnYiRzoxM4HX9sDmt9%2FAm1AYn3MeGz8Xcpq5hCtiA3pABq5tPN5iCmrbPZKMoUGt2eZPMfqUnBR1%2BVuYoPdu1s%2Foib1eQ4wcyMp74LqaWqWe1pj9OT8nhPkCWZf8QgtOECjq9dxsNuV8klfxhLh5GrwvU%2Bm%2B7FtsWifp0Exp6ehKsgTw5XDbdC9MfhC2mxSMxfW%2F7%2F%2BFwSFGObTiuOHwtSKYwgW74vHgbb85bWGb0APjhvJKKct7h0zq%2BK0xMjxC271dIEUEzdRDg2SfFkpcXFSyUbbEjVX%2BlcyHlMPdoqtPaUwtT6vxgnAkLX07kghVlv%2B07EnmLnGPy89zPmUsPCfqpx6E3iz5%2Frv6W8jraAfWVxHCf9acea6MWoytKKUHJ4p3Vr9WNO9cDlx3n84YgVh89Mv%2BBNq54w6UfmAFlsqBCauqDyTuuo2iQ%2Fpuf1qj2MUIQKmF6w8T6g8lOwXXjtJ10yd2mZtOWceuyiMlPzhJA1%2BZGhU0e4qgSz9a8VPCzuhalbhnqKZN%2BueaLH0TmUfsKSaG4pRlRUA016GnaJg6FLjBI5NAbPIn83z6bQaZvdQ6U3S4Pv8yukGPyCnA9v6NPVFR887Vqp1WnzJ16JJ5adPHLOGErXU71zzxKLbrJ7w5OmOVIfJbrZRFVuO27CC54wmH1kEB1lTIXltvOyZ8sIqMVjQIarxQ90FSQwr8qWVFuNPaQxvv0Z4yGbnfma%2FRa4ciXAgmgJGK40xB80qSFKwI81bGCMkXFqLT3E6vspxCylK8xfnMyjHgSLvSHwrWSyHcP4ln4Ke7MNCNBPPNjfqV8Ktvt%2FX89QSWmopKj89THY7yQrtNEFGn2Uqs4BBZ%2B8HTKVaOWaNEPYRL0%2F1yYHyWck8Pnsv4djZM5uIstxfdM4jmyxA0aooxF3DcKeBGeVz8wkac7WJu1OITRA7f69iHVM4hxROAops7UhL5%2B1Y7EpKLOUhDGafzuBe7Y4u74fImvJ1HGeLPfiC4cq6eiebt1WEyLoP9iClnP%2Bj0FFr24q5u5xWu4ttXLWK8LNbwnCHfuHtFQdhIaqea%2Bq5d%2FZVxGbaUc7i5ad1BusiTnn%2Fjfej58dyh61VKafV6A0AsxtpFeL%2BoMripF1cu9kQkVpNVa2Z683ezamGnbPyWw5z%2F6SvCuZBwZU%2Fl%2BVGCMh5POfy33YXuIXv1HxV7hKLbZFKn196AuwwBGr%2BW9M0R%2BvjSWias83uDsrgR%2BiOQpluMdDjRg%2FxQ%2FKHHtXQ4umYwvE4N1vebd937QDsE3IY9AB6evm5SHzDawZxM6EN59PbJpKo%2F1sPu%2F0golaTzeQhr9PTJAWG%2FVQxi7y3uFiUbiB1Ri23hNkfnENL2V0WOB3kqFZA0Su1ooZLK6zj0zecxKvOA8aQ2839Ksd2VnMTzBB4mSm6JJy%2FyWIzfxhJ0rYnDneWz7Z%2FN5dmpgq6rFxt7FZAidd6pky5mJny%2FarG3VSAgO5Ja56cIlMTMlvwUsyrxNMXEoLggjRht3YxuQfUe7C2ZKp4%2FqxULTG6uMVOenF6NNXwX7Bi9ggPjvvw%2FrEU%2F6gYaCfdvAwgRvPeXD9Q79lqBb74SavqakIcJMTNwB0bF4qyQtvfBIYjxJKxmdU4Rk7xal1%2FQbScWiHKg8m02NusdtmIiEYX13OXU0vIl7lJhEiSJK6MO1UBV%2ByGndFm3yzaIrVIhpCDRFqIoTSJPgTmZ2i8vyLCbbuSH3L7Bf59p03sFG7QNSG5F%2Bng3Pu4Zmrkz%2BldL3Arv9x6ALszkq3O74uGjgZGBmjPOBkXfjnknaKpvA3LdDE%2F7raYwYNClbhd5d0R5uXEK8ZjdwvPNWvSGjepa6lC890tVHi%2FHekXjrbMhuHfrZfzjyFJ%2FoY2jl3OxcZm4xTlGmKKn2RaAs6gD37IWYpBNhhdd%2B9hHSzH8S2Y32yZ8aqcSknAAx970w37QkGQ%2FDld8bpxx7YHsOv3U6yr3Er8izzOIp3PJwzC9NYM1dNxrUktkgEOmQOUL%2FZmx1Ww1J0jaj6wpFxSqQu%2F2zDWvaXEkf%2BNVGcoU0DNXIbugpUy9s9E5%2BPgDekx8Hp%2BJnUkRSLIk85pgZCh12OwvNGXwiQ3vrIAwqUtlqflAmps8cnWgtrwkqG5xd%2BHpWJnc8%2BaT5uwkdmrs%3D%22%7D&srss=1",
         "peta": "https://maps.app.goo.gl/sKkRC4uer8T1A7Sm6",
-        "gambar": "/src/assets/images/hotel/Hotel Amaris Pakuan.webp"
+        "gambar": "/images/hotel/Hotel Amaris Pakuan.webp"
     },
     {
         "id": 20,
@@ -491,7 +491,7 @@
         ],
         "pemesanan": "https://www.traveloka.com/id-id/hotel/detail?spec=22-03-2026.23-03-2026.1.1.HOTEL.9000005692594.HOTEL%20BAMBOO%20BOGOR.2&loginPromo=1&prevSearchId=1859469021192156073&mToken=f0KGf5MP9oxpzCmKIQhZcYXrD0psL4BejV0ElI5mOR3B2GPAQjCBuj2avivBiij2U8N9P1r6GP%2F5LxyKrCg2Zg%3D%3D&metasearchRateId=desktop&priceDisplay=TOTAL&contexts=%7B%22accessCode%22%3A%2290975GHAD1305desktop%22%2C%22metasearchRequestId%22%3A%224eb89112-e724-44de-a508-1bb2a8237bf0%22%2C%22plc%22%3A%22HH5uwnGdLnPKRe%2Fqv7id5ADEzIVYTBfRzyspLYRnHTTlN2CfoTwBfthQNOW88FyzR7oZU4Iw5jlwx4PwTZbvug%3D%3D%22%2C%22inventoryRateKey%22%3A%22povEwB3ZzsU2C6pd%2B6MdU13LUNuufACdbU0usK5vg0cFkpeOOlUFcKsvZpNaP%2BxMfwxXnYiRzoxM4HX9sDmt9%2FAm1AYn3MeGz8Xcpq5hCti60T5rwutoa2XgIwEjmmIVA7exGDjnPN8b%2FXZQ8xDaOX%2FiBpLtGB%2Bi5u4WIT%2BTIRzGWEHYNmdNOW6Lw77bbFgikSMiujw8B7xwiuK0m5UQuQPXLjj4%2B6GkRHhyuI%2FfBJ0y8qqjxOWZlmvDt5UeIWwXb3Sk99gUGUOfjNJB1lv8AKKYC%2FmCsYm7VXXC%2Fj%2BYk3l6uGiLXvNELBzJD8uEu%2BMn2WrkQic%2FOAsvA1nxHWA7HpI2BXuxPR7Hd7jCsM0pFJeaTZFTa22ZVmrkfTiUjEjoNxHMG59v9iLjlF0zl%2BqiVFJvf0cs2W%2FHK6m0OnpSXj%2BPm3TysnhHJ1Aq8Ij7LpA1OMSWkAjWXew5vR%2Fsys90qB5QXEjRxZPujPnnfNa1W8HhBxiIYNCie4GQCacNeyLQHBLRj5tX8anDZwYDEfMslsM2dFbOJdVp2Ix%2FtF%2FO%2FKJgFAAG9yrr8pK2W2oE6a%2FY%2F0d1Py8EtSLMzmKYzMO1S3KG79rDOydBXYu9RfjGj7iWf%2BAXEdXTCWZx4LorQChuF7yPLrU3wDEGwaOJ6UBt3VTws7oWpW4Z6imTfrnmix9Mi7uiRiTszFuv3Ox5oIVImukY4Wfv%2BkFduc7hBHb6pnn4aNKOyoG7Jito5SHkdjo0bXHRx6PwFsBDwx4PdDdUfTttQXVTLpoSidS2Vk2IQKraL3%2B5e1oeju2nE%2FCHues5I1GzKTMKA%2FGw3X0qzb2HoyYXRBM4iOF5d4kSWB5OPbBzIrtUW2aHE8zK5KoHXUOOKdU%2BuipiMScgTzorUWw9tezEtQF1nt5I4YHr16BHisXx9mylKUoxLgOp0XlKcJ5IZaSjLEe6TfprV3KS%2FXv5j3KRLQ0G3WgHatN68BAskjyl92baEhjH7KXu%2F3LFvO%2FI8xA9uUxEXsqFJ3va5nZGnpDWel5EgijIDx3tWVAp2FzSmxJoJE3x4DnyuWMZ2ddACKCiOMRrdHHw%2BNX7dNMnAH9cdFgyzdmzPLjpwUfxd1BOgRdQxJguH08AgGJnRbC7U3Q4o8lr%2Ff3UGljrv%2Fml1R7%2BHWJrB3RpxGL%2Bw95gEQO2c3FpInhg1NB1I32IcHDly4Iuala9EUOiXSjJYq83x3nxCCUBUG6TF820dw9BEIfNclW9%2FHLrpRqnIt7MNkcq28G0BTVO2Xo2PFOF1m4U9%2F1ZP3qiGSRYJnLK8EsR2sx8sLb%2F%2F6A%2BaZUt644QY22k3mh1%2FIB5a2rjYHek%2BVtVWMYmI1kV%2ByZhNz9xRTw6ywe1KKAmFPpA0tX7F3bd4EkuXfwIvhX8zUlzGCaN0GjLBhsuWMjrAZTFPK%2BZf8XmxXUEevAMxMmvMhidb5iSbTRcwjbM23d09ucDYHuuA208%2F%2Bo4SnQH4ari32QeEmW5iNhiHcXprrYq1rXRyonKktbQq1MQ3WzQHatN0YrDJKDF40bNpD3ldYa%2Fg6r3VpcJug7wBV3XR9NnNQ8jErXsHYZSr%2F8IjZeJxOW0qpXpKo8twYJaPQDOKhGaogjS3LSuo8RlrpY9hmV22JQcv8G9SSZoAVEhcy9%2FGBUYkwuiDv%2FO6mMzwSxa1cGc0HouqpYTSlz%2FLXh22UYoVFXGBKpW%2FXlSEDQZoAXwn0i5PXBeS%2FbWtVjC%2B36R8Ddl85bCF0JPRTtNXTS7wBS%2FhVq7YFPRmsfKHf4YD102Y65nBka5Ub1V47nIt50MwKUTBPbi7OdeLEFbKVryoVjeoX2HPKnLgVAenx7Y0MoB7TFln%2BQJxweP%2FvIrJZGegy0KHbdaIUN%2BW3ryb0GzdNYYN3O6UMKZWTnyCTctNUge16eAgMb7AS9%2FPw%2B8MpRV3vdi7I4BObArMzv%2FzsbeFoDDzbB1xmjlVorQaqB7gtVEMeIiHyRc0xi5l9RXwcRQMVWWEAomPlZ9U19WGC7vBmsq91dShAz53TpByPQzrcqoeOzWhLpxAMjfeR4X%2F7F12yianjjqT33AdLU1J5BxheoMDEO51S4%2BuJvKr75gHBS%2FYIej%2BSL2SObpggQsxtrBgw3yr4vx6NgqZpToJoUzZMJT35ZOTGfd28ZMjUyUrLLcsgdpQ5fmhKOeSByj%2FaC6fZ8kQcgyecnFqEUiVfUsfg%2BJx05A2qB4HbRy8em8kundleJiSOJOruJr%22%7D&srss=1",
         "peta": "https://maps.app.goo.gl/DNRbL1v3vbaHwiyt7",
-        "gambar": "/src/assets/images/hotel/Hotel Bamboo Bogor.webp"
+        "gambar": "/images/hotel/Hotel Bamboo Bogor.webp"
     },
     {
         "id": 21,
@@ -513,7 +513,7 @@
         ],
         "pemesanan": "https://www.agoda.com/id-id/savero-style-bogor/hotel/bogor-id.html?countryId=192&finalPriceView=1&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-03-22&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&los=1&searchrequestid=965c29ef-0878-4a08-bc80-3140b3f94bfb&ds=RAromD73gw8BIw5s",
         "peta": "https://maps.app.goo.gl/fMxpX8i5TvHFyXJE6",
-        "gambar": "/src/assets/images/hotel/Hotel Savero Style Bogor.webp"
+        "gambar": "/images/hotel/Hotel Savero Style Bogor.webp"
     },
     {
         "id": 22,
@@ -542,7 +542,7 @@
         ],
         "pemesanan": "https://www.agoda.com/id-id/grand-savero-hotel/hotel/bogor-id.html?countryId=192&finalPriceView=1&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-03-22&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&los=1&searchrequestid=1e399c7d-ca95-4865-8234-fdbc931c4116&ds=QMpHm0y0%2FJzpcf57",
         "peta": "https://maps.app.goo.gl/m4AqqScF4JYz7ifW7",
-        "gambar": "/src/assets/images/hotel/Hotel Grand Savero.webp"
+        "gambar": "/images/hotel/Hotel Grand Savero.webp"
     },
     {
         "id": 23,
@@ -563,7 +563,7 @@
         ],
         "pemesanan": "https://www.tiket.com/id-id/hotel/indonesia/pemda-22-mansion-mitra-reddoorz-702001708584647940?room=1&adult=2&checkin=2026-03-22&checkout=2026-03-23&utm_external=aff&searchSessionId=3702D5C0-1737-492C-810F-F1617B3BCC65&referrer=https%3A%2F%2Fwww.tiket.com%2Fid-id%2Fhotel%2Fsearch%3FhotelID%3Dea3b9b04-78d5-48de-8c75-f48f00ae5752%26checkin%3D2026-03-22%26checkout%3D2026-03-23%26adult%3D2%26country%3DID%26device%3Ddesktop%26isAat%3Dtrue%26utm_source%3Dgoogle-hotel%26utm_term%3Dea3b9b04-78d5-48de-8c75-f48f00ae5752%26utm_medium%3Daff-meta%26utm_campaign%3DGoogle-Hotel-0023-B2B-none-hotel%26utm_external%3Daff%26tag_meta_id%3D34412887%26tag_meta_type%3Dgoogle-hotel%26isRedirect%3Dtrue%26currency%3DIDR%26id%3Dpemda-22-mansion-mitra-reddoorz-702001708584647940%26type%3DHOTEL%26room%3D1%26searchSessionId%3D3702D5C0-1737-492C-810F-F1617B3BCC65%26q%3DKedunghalang&utm_page=searchResultPage&tag_meta_id=34412887&tag_meta_type=google-hotel&currency=IDR",
         "peta": "https://maps.app.goo.gl/6D4UjppLFbXqTCKA6",
-        "gambar": "/src/assets/images/hotel/Pemda 22 Mansion Mitra RedDoorz.webp"
+        "gambar": "/images/hotel/Pemda 22 Mansion Mitra RedDoorz.webp"
     },
     {
         "id": 24,
@@ -582,7 +582,7 @@
         ],
         "pemesanan": "https://www.agoda.com/id-id/key-inn-hotel-bogor/hotel/bogor-id.html?countryId=192&finalPriceView=1&isShowMobileAppPrice=false&cid=1917614&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-03-22&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&los=1&searchrequestid=8d1bc5d5-4cf4-41cd-98d3-6c38341392c9&ds=Gah1lc%2FZ4m3FbL6V",
         "peta": "https://maps.app.goo.gl/3GLX1z1cMbWiNQNAA",
-        "gambar": "/src/assets/images/hotel/Key Inn Hotel Bogor.webp"
+        "gambar": "/images/hotel/Key Inn Hotel Bogor.webp"
     },
     {
         "id": 25,
@@ -601,7 +601,7 @@
         ],
         "pemesanan": "https://www.traveloka.com/id-id/hotel/detail?spec=22-03-2026.23-03-2026.1.1.HOTEL.9000001136133.RedDoorz%20Apartment%20%40%20Bogor%20Valley.2&loginPromo=1&prevSearchId=1859476331171967494&mToken=f0KGf5MP9oxpzCmKIQhZcYXrD0psL4BejV0ElI5mOR0I0ZD7la4P88SSzzmJtMCmZdhD5jocQWDVEPNuh5Rxgg%3D%3D&metasearchRateId=desktop&priceDisplay=TOTAL&contexts=%7B%22accessCode%22%3A%2290975GHAD1305desktop%22%2C%22metasearchRequestId%22%3A%22e91ab1db-0afc-4c6b-82e6-0089303ca2bb%22%2C%22plc%22%3A%22HH5uwnGdLnPKRe%2Fqv7id5ADEzIVYTBfRzyspLYRnHTTQZiN7CaQCTcbYxObuaH2V%2BlZozniHnyuQKPC8osqEjg%3D%3D%22%2C%22inventoryRateKey%22%3A%22povEwB3ZzsU2C6pd%2B6MdU13LUNuufACdbU0usK5vg0cfRbHgYp%2B6nLoaldzSEhkXfwxXnYiRzoxM4HX9sDmt9%2FAm1AYn3MeGz8Xcpq5hCtgsRC9e7ksSyeskKOu7GSNnzJHB3n2BcbX7A0I01CXJ7X%2FiBpLtGB%2Bi5u4WIT%2BTIRzGWEHYNmdNOW6Lw77bbFgikSMiujw8B7xwiuK0m5UQuWt9c%2BhKUt3DYk08a4%2FFE387pAh2yBOWkC%2FsfQ1JwHz%2BYCXOn%2FdIExfj527iy2TPQrrhuX3YFoJqIjLp7Nnnh8DN99bU1UKmJcPEGJVI9kIib1T653qBvQn4SR0kcPg1BI80taLvlioKIbc8ms2tTbCSNgV7sT0ex3e4wrDNKRSXmk2RU2ttmVZq5H04lIxI6Oso1R6YbqU33OKetwWT2U1DtVidfx6cORC3XMyp9JWOj5t08rJ4RydQKvCI%2By6QNTjElpAI1l3sOb0f7MrPdKgeUFxI0cWT7oz553zWtVvB4QcYiGDQonuBkAmnDXsi0BwS0Y%2BbV%2FGpw2cGAxHzLJbDNnRWziXVadiMf7RfzvyiYBQABvcq6%2FKStltqBOmv2P9HdT8vBLUizM5imMzDtUtyhu%2FawzsnQV2LvUX4xo%2B4ln%2FgFxHV0wlmceC6K0Aobhe8jy61N8AxBsGjielAbd1U8LO6FqVuGeopk3655osfTIu7okYk7Mxbr9zseaCFSJrpGOFn7%2FpBXbnO4QR2%2BqZ5%2BGjSjsqBuyYraOUh5HY6NG1x0cej8BbAQ8MeD3Q3VH07bUF1Uy6aEonUtlZNiECq2i9%2FuXtaHo7tpxPwh7nrOSNRsykzCgPxsN19Ks29h6MmF0QTOIjheXeJElgeTj2wcyK7VFtmhxPMyuSqB11DPofFrDQUoyWm5%2B0dqKS3CVL2GaZyirpkvjPzxewQHTDF8fZspSlKMS4DqdF5SnCepKcfWGpOz6iFhFC8BMHPs6NfsaCtpG3THD9dqutoT5w8pfdm2hIYx%2Byl7v9yxbzvkWF07WxwEt7lZgYX5pcM0nvL2ViJNSVTupkNoDCAMIukc0lZ1BDQTseKn4QAe%2Fxel2l9oCqefMlfrF7CUoLXt98vm3Ud0pC1UTCyspx9%2BM8MNy4J5jIjC1iMw%2FkseJqjSRK8AW4cSGn%2FGuHC7wO8nzJ%2BPz%2FlwQ4wre4Tl8mJMVhwv27SwMGgrHImWA47h7Y957KSEC5ZBZoetWfTdv3Gbf9GikvmNj65%2FhwIG%2BgL9jbQzrDqeHUz1VXrpfo05jg%2Ff7HYN%2BaYKyM%2Fy7%2Fgk4ULzo5gmTwQC7gokvCctP7pQaveQQ9gEJBrlBlc6YB%2BWrbBQXMnD7TM4H%2B%2BfaLIS3u2uhAZPTAbBGvyCEUYoeO8R3or%2FUJKUMGKYIVPVqQbK%2BnVsacA2NC0Cuuw1ael0%2FKi2xNw7q9w%2FSeUzaPrbEm2Enl3dqQDWPxeKYGgJ7psz9aeGfNL%2FIBsURvWerX8ZJkmJN71UCbMchC%2B3eLeuwCDetkBtgMJsUOFXTE0UDGh8kw8YBpo8r66MzSod5OGlz6Vv05PO7Y6iyivu9e6IfyvE86rwa6SmVjwRwhMxJDfq1MQro1mTooOPvrHCqvDbV08DQdBb0PD%2BPYxMBj5PC5qjJ3sjSFPgnZfcI7IK0tjw1xaHePESowMX9zjODxcaBjc1hKeHQMdNYawJmuvVsuFmMnD%2BWw5sQpCAUwzDqHmYvDgaaFKPmeMhD946YZp6oROfXy3%2B80N6RVheU2sEK4%2FsatCQtn%2BOOgetMQQmgNGgP7TsvLBvuLMxq3pMi4WIJWTw%2Betd6bbaufjjqZcEcNVyKAXuAXmTfBxtlhwI%2FjwFJ0BbKbWVCiEmYpfnHKq9oJtqsXMDz%2FzW0SJRRH6ZVbhRbqGEUUUPF9XSSsmN2cav2C%2F2Bi3vOiRlrL6JGXiXn6uTRL2d3DpZYCo%2FJPRpCIcd3QhFK%2Fu4%2BAXFCC%2BKRXwCWeRRcUqkLv9sw1r2lxJH%2FjVRr26PedDbAfMrfFzJ2fkr5pEKDqBt4bTFml7ICgcyMA00SH8birCIDtrMSx1SOGmv83e8rh4%2BbXsg1ui2swypsAf0Osz3ASMCPtQaT4t9cERH9vczwa5PRtmUi%2FDVAAa0KnUcgXzjlfcwJ8kDvpi8lNwA3FR7jAYf4WC8FnFEXs1Fx0JIA365uWPpWp7Yu5SgIb2FZ18fNv9vayuep8m82I%3D%22%7D&srss=1",
         "peta": "https://maps.app.goo.gl/ijVEW57Vi2G5nRGt7",
-        "gambar": "/src/assets/images/hotel/RedDoorz Apartment Bogor Valley.webp"
+        "gambar": "/images/hotel/RedDoorz Apartment Bogor Valley.webp"
     },
     {
         "id": 26,
@@ -619,7 +619,7 @@
         ],
         "pemesanan": "https://www.traveloka.com/id-id/hotel/detail?spec=22-03-2026.23-03-2026.1.1.HOTEL.9000003316912.New%20Garden%20Hotel.2&loginPromo=1&prevSearchId=1859476448109163959&mToken=f0KGf5MP9oxpzCmKIQhZcYXrD0psL4BejV0ElI5mOR2LJqI8EJZD4HVZ6VNTJVgUAELkuJ7BqIFF3vnA9g5fgg%3D%3D&metasearchRateId=desktop&priceDisplay=TOTAL&contexts=%7B%22accessCode%22%3A%2290975GHAD1305desktop%22%2C%22metasearchRequestId%22%3A%22f95a615b-3e86-4896-88da-8880f971c8fc%22%2C%22plc%22%3A%22HH5uwnGdLnPKRe%2Fqv7id5ADEzIVYTBfRzyspLYRnHTSM5fzzR9zVANaOWW2RthoE%2BkBbdKp5t%2B509ux3S8%2FMIg%3D%3D%22%2C%22inventoryRateKey%22%3A%22povEwB3ZzsU2C6pd%2B6MdU13LUNuufACdbU0usK5vg0edArye6hkfGUVRca6o3rulfwxXnYiRzoxM4HX9sDmt9%2FAm1AYn3MeGz8Xcpq5hCtgwfKHADSvEf%2F%2B9pqDDsiQeI%2FRY4WJVn70H8%2Brv41JnCtu1s%2Foib1eQ4wcyMp74LqaWqWe1pj9OT8nhPkCWZf8QgtOECjq9dxsNuV8klfxhLpqOGzdvHEKS1cFBUAPAMXDZFG6GaHzvF6ksOUyI%2F4VtzTu6H%2BITjykWz7ygVTWSnMBrA3SVCpHYDI%2BGJMMs2cZtCokAr05jlRdEBNDC0WWzxcAOzXE5l6%2BwZAsTHk1C3Giq09pTC1Pq%2FGCcCQtfTuSCFWW%2F7TsSeYucY%2FLz3M%2BZDg7w6hFpTDb7jgr0WIe3fWp561m7V8eIr9LQE%2FIwUAcpQcnindWv1Y071wOXHefzhiBWHz0y%2F4E2rnjDpR%2BYAWWyoEJq6oPJO66jaJD%2Bm5%2FWqPYxQhAqYXrDxPqDyU7BdeO0nXTJ3aZm05Zx67KIyU%2FOEkDX5kaFTR7iqBLP1rxU8LO6FqVuGeopk3655osfROZR%2BwpJobilGVFQDTXoadomDoUuMEjk0Bs8ifzfPptBpm91DpTdLg%2B%2FzK6QY%2FIKcD2%2Fo09UVHzztWqnVafMnXoknlp08cs4YStdTvXPPEotusnvDk6Y5Uh8lutlEVW47bsILnjCYfWQQHWVMheW287JnywioxWNAhqvFD3QVJDCvypZUW409pDG%2B%2FRnjIZud%2BZr9FrhyJcCCaAkYrjTEHzSpIUrAjzVsYIyRcWotPcTq%2BynELKUrzF%2BczKMeBIu9IfCtZLIdw%2FiWfgp7sw0I4R13qriQoLJ9QbLit8dm2N%2BQB1oQardFwakYfgtM71rCjzytZ5OtD3yKdcAuC%2BNf%2FT%2FXJgfJZyTw%2Bey%2Fh2Nkzk9bCUo9OOX38idTbaubeJ9ANA8Of0deUBva68mxPSrR9S4BGiV9PbgLrFgZEh7TxdWtHBNJquRDkUXerVNMlv%2B26WSEcur5yjoyLiA1SH2omymvXYEA%2BVYlSuKH1Ajbzc98chbexnVPqqn4Ccb18HYdVculjTX41NgY1x7oDBRp13nV%2F%2BK3aQJ4DVqJy5DSYJCXGfOiEomJcl%2FmUfUgCOxXjtDYxvwe%2B0JRxlmw%2BWO4mlpJYTJ7nN4Pr5UZCIx9GynfTnMugv%2B4QcC7v61LOhK3cqwDF4BBOEApJGSHAhDd%2F9GikvmNj65%2FhwIG%2BgL9jbQzrDqeHUz1VXrpfo05jg%2Ff7HYN%2BaYKyM%2Fy7%2Fgk4ULziiE2YDyutEJu3E52Wfhxu7eQQ9gEJBrlBlc6YB%2BWrbBQXMnD7TM4H%2B%2BfaLIS3u2uhAZPTAbBGvyCEUYoeO8R3or%2FUJKUMGKYIVPVqQbK%2BnVsacA2NC0Cuuw1ael0%2FKi2xNw7q9w%2FSeUzaPrbEm2Enl3dqQDWPxeKYGgJ7psz9aeGfNL%2FIBsURvWerX8ZJkmJN71UCbMchC%2B3eLeuwCDetkBtgMJsUOFXTE0UDGh8kw8YBpo8r66MzSod5OGlz6Vv05PO7Y6iyivu9e6IfyvE86rwa6SmVjwRwhMxJDfq1MQro1mTooOPvrHCqvDbV08DQdBb0PD%2BPYxMBj5PC5qjJ3sjSFPgnZfcI7IK0tjw1xaHePESowMX9zjODxcaBjc1hKeHQMdNYawJmuvVsuFmMnD%2BWw5sQpCAUwzDqHmYvDgZaGxBzO2lT2OYB%2FzCNFTEXy3%2B80N6RVheU2sEK4%2FsatCQtn%2BOOgetMQQmgNGgP7TsvLBvuLMxq3pMi4WIJWTw%2Betd6bbaufjjqZcEcNVyKAXuAXmTfBxtlhwI%2FjwFJ0BbKbWVCiEmYpfnHKq9oJtqoUq3TDMORoBD%2FORIAzBikR3xrTgezR52Xdd45QaVJwJqXQhTJ%2FI%2FYS94K0C%2BB9qNxL2d3DpZYCo%2FJPRpCIcd3QhFK%2Fu4%2BAXFCC%2BKRXwCWeRRcUqkLv9sw1r2lxJH%2FjVRr26PedDbAfMrfFzJ2fkr5pEKDqBt4bTFml7ICgcyMA00SH8birCIDtrMSx1SOGmv83e8rh4%2BbXsg1ui2swypsAf0Osz3ASMCPtQaT4t9cERH9vczwa5PRtmUi%2FDVAAa0KnUcgXzjlfcwJ8kDvpi8lNwA3FR7jAYf4WC8FnFEXs1qQAvIVUf%2ByyiWNsL9T582SkMFv0UG%2FUv7NwROF3wsok85bkExelxG2EKYZCA6JGl%22%7D&srss=1",
         "peta": "https://maps.app.goo.gl/J8a2wNk1f2Bs1RpL9",
-        "gambar": "/src/assets/images/hotel/New Garden Hotel.webp"
+        "gambar": "/images/hotel/New Garden Hotel.webp"
     },
     {
         "id": 27,
@@ -637,7 +637,7 @@
         ],
         "pemesanan": "https://www.tiket.com/id-id/hotel/indonesia/reddoorz-plus-near-jalan-baru-bogor-109001538210145242?room=1&adult=2&checkin=2026-03-22&checkout=2026-03-23&utm_external=aff&searchSessionId=1224405E-FBAB-4D35-9BE7-F64AFB93E637&isFromSRP=true&referrer=https%3A%2F%2Fwww.tiket.com%2Fid-id%2Fhotel%2Fsearch%3FhotelID%3Dba02ad9b-a446-438b-88c5-13d11a4d0a8f%26checkin%3D2026-03-22%26checkout%3D2026-03-23%26adult%3D2%26country%3DID%26device%3Ddesktop%26isAat%3Dtrue%26utm_source%3Dgoogle-hotel%26utm_term%3Dba02ad9b-a446-438b-88c5-13d11a4d0a8f%26utm_medium%3Daff-meta%26utm_campaign%3DGoogle-Hotel-0023-B2B-none-hotel%26utm_external%3Daff%26tag_meta_id%3D34412887%26tag_meta_type%3Dgoogle-hotel%26isRedirect%3Dtrue%26currency%3DIDR%26id%3Dreddoorz-plus-near-jalan-baru-bogor-109001538210145242%26type%3DHOTEL%26room%3D1%26searchSessionId%3D1224405E-FBAB-4D35-9BE7-F64AFB93E637%26q%3DTanah%2BSareal&utm_page=searchResultPage&filterSummary=H4sIAAAAAAAA%2F6pWSsvMKUktKlayqq7VUSooykxOVbKqVirJL0nMCUosSQ3PLMnILy0JSaxQsjI2NDK1MK7VUUpKTQmpLEgtVrKKVnLJL03KSVWKrQUEAAD%2F%2F%2BrxPeBLAAAA&tag_meta_id=34412887&tag_meta_type=google-hotel&currency=IDR",
         "peta": "https://maps.app.goo.gl/2nKNxNbB9RsiHDLa9",
-        "gambar": "/src/assets/images/hotel/RedDoorz Plus near Jalan Baru Bogor.webp"
+        "gambar": "/images/hotel/RedDoorz Plus near Jalan Baru Bogor.webp"
     },
     {
         "id": 28,
@@ -659,7 +659,7 @@
         ],
         "pemesanan": "https://www.agoda.com/id-id/house-of-joyce-bogor/hotel/babakan-id.html?countryId=192&finalPriceView=1&isShowMobileAppPrice=false&cid=1917614&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-03-22&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&tspTypes=6&los=1&searchrequestid=69dc26e0-ea49-483d-b123-b6a036606a2f&ds=ECM5GBRl4TxThCX0",
         "peta": "https://maps.app.goo.gl/MroDMMA2JttoaDbc8",
-        "gambar": "/src/assets/images/hotel/RiReRa Guest House.webp"   
+        "gambar": "/images/hotel/RiReRa Guest House.webp"   
     },
     {
         "id": 29,
@@ -679,7 +679,7 @@
         ],
         "pemesanan": "https://www.tiket.com/id-id/hotel/indonesia/reddoorz-near-exit-toll-sirkuit-sentul-409001631950329346?room=1&adult=2&checkin=2026-03-22&checkout=2026-03-23&utm_external=aff&searchSessionId=71408706-50FB-4497-9766-D9E64B500D48&referrer=https%3A%2F%2Fwww.tiket.com%2Fid-id%2Fhotel%2Fsearch%3FhotelID%3Df8b2bec2-3580-4259-8006-f43a5b9d0461%26checkin%3D2026-03-22%26checkout%3D2026-03-23%26adult%3D2%26country%3DID%26device%3Ddesktop%26isAat%3Dtrue%26utm_source%3Dgoogle-hotel%26utm_term%3Df8b2bec2-3580-4259-8006-f43a5b9d0461%26utm_medium%3Daff-meta%26utm_campaign%3DGoogle-Hotel-0023-B2B-none-hotel%26utm_external%3Daff%26tag_meta_id%3D34412887%26tag_meta_type%3Dgoogle-hotel%26isRedirect%3Dtrue%26currency%3DIDR%26id%3Dreddoorz-near-exit-toll-sirkuit-sentul-409001631950329346%26type%3DHOTEL%26room%3D1%26searchSessionId%3D71408706-50FB-4497-9766-D9E64B500D48%26q%3DPasir%2BLaya&utm_page=searchResultPage&tag_meta_id=34412887&tag_meta_type=google-hotel&currency=IDR",
         "peta": "https://maps.app.goo.gl/oLmPivyV73QxkZGD7",
-        "gambar": "/src/assets/images/hotel/RedDoorz near Exit Toll Sirkuit Sentul.webp"   
+        "gambar": "/images/hotel/RedDoorz near Exit Toll Sirkuit Sentul.webp"   
     },
     {
         "id": 30,
@@ -704,7 +704,7 @@
         ],
         "pemesanan": "https://www.agoda.com/id-id/m-one-hotel-bogor/hotel/bogor-id.html?countryId=192&finalPriceView=1&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-03-22&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&los=1&searchrequestid=2a9d661d-dae3-4360-80d5-b622632e6fa6&ds=zYVGZ3njj%2F5IYX3h",
         "peta": "https://maps.app.goo.gl/zQuxV6urXBY2xdRz8",
-        "gambar": "/src/assets/images/hotel/M-One Hotel Sentul.webp"   
+        "gambar": "/images/hotel/M-One Hotel Sentul.webp"   
     },
     {
         "id": 31,
@@ -725,7 +725,7 @@
         ],
         "pemesanan": "https://www.agoda.com/id-id/ombey-guest-house/hotel/bogor-id.html?countryId=192&finalPriceView=1&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-03-22&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&los=1&searchrequestid=7dd84d9b-b6d2-4de5-a4d1-62a375495c70&ds=wM6i7vOU9eRkAnUq",
         "peta": "https://maps.app.goo.gl/Gcmi1Yzz1X9ns73t8",
-        "gambar": "/src/assets/images/hotel/Ombey House.webp"   
+        "gambar": "/images/hotel/Ombey House.webp"   
     },
     {
         "id": 32,
@@ -744,7 +744,7 @@
         ],
         "pemesanan": "https://www.booking.com/hotel/id/cemara-gading.id.html?aid=2127671&label=metagha-link-MRID-hotel-10270217_dev-desktop_los-1_bw-9_dow-Sunday_defdate-0_room-0_gstadt-2_rateid-0_aud-0_gacid-_mcid-50_bc-AJy2CQ_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20260322_ppt-&sid=96fd77defc9e959d927ff06307b38e78&all_sr_blocks=1027021701_375458709_2_0_0&checkin=2026-03-22&checkout=2026-03-23&dest_id=10270217&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=1027021701_375458709_2_0_0&hpos=1&matching_block_id=1027021701_375458709_2_0_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=1027021701_375458709_2_0_0__22144500&srepoch=1773403338&srpvid=c9c254a2da30008e&type=total&ucfs=1&",
         "peta": "https://maps.app.goo.gl/sZUEa8XUSXGJPjVy7",
-        "gambar": "/src/assets/images/hotel/Hotel Cemara Gading.webp"   
+        "gambar": "/images/hotel/Hotel Cemara Gading.webp"   
     },
     {
         "id": 33,
@@ -765,7 +765,7 @@
         ],
         "pemesanan": "https://www.agoda.com/id-id/gsv-cottage/hotel/bogor-id.html?countryId=192&finalPriceView=1&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-03-22&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&los=1&searchrequestid=8d6a3433-bd69-407b-beec-770fbc8e6319&ds=KFicfXeXcOATyMqS",
         "peta": "https://maps.app.goo.gl/Ki5XyRUQkGohsH8G7",
-        "gambar": "/src/assets/images/hotel/GSV Cottage.webp"   
+        "gambar": "/images/hotel/GSV Cottage.webp"   
     },
     {
         "id": 34,
@@ -790,7 +790,7 @@
         ],
         "pemesanan": "https://www.tiket.com/id-id/hotel/indonesia/horison-ultima-sayaga-cibinong-806001749458727133?room=1&adult=2&checkin=2026-03-22&checkout=2026-03-23&utm_external=aff&searchSessionId=E58AE9EE-F7E5-4552-80C2-11DB8D0B4864&referrer=https%3A%2F%2Fwww.tiket.com%2Fid-id%2Fhotel%2Fsearch%3FhotelID%3D3fcb8a35-d1aa-4590-9693-ffad1fb1c581%26checkin%3D2026-03-22%26checkout%3D2026-03-23%26adult%3D2%26country%3DID%26device%3Ddesktop%26isAat%3Dtrue%26utm_source%3Dgoogle-hotel%26utm_term%3D3fcb8a35-d1aa-4590-9693-ffad1fb1c581%26utm_medium%3Daff-meta%26utm_campaign%3DGoogle-Hotel-0023-B2B-none-hotel%26utm_external%3Daff%26tag_meta_id%3D34412887%26tag_meta_type%3Dgoogle-hotel%26isRedirect%3Dtrue%26currency%3DIDR%26id%3Dhorison-ultima-sayaga-cibinong-806001749458727133%26type%3DHOTEL%26room%3D1%26searchSessionId%3DE58AE9EE-F7E5-4552-80C2-11DB8D0B4864%26q%3DCibinong&utm_page=searchResultPage&tag_meta_id=34412887&tag_meta_type=google-hotel&currency=IDR",
         "peta": "https://maps.app.goo.gl/oqJHUtebqb6zGTDc9",
-        "gambar": "/src/assets/images/hotel/Horison Ultima Sayaga Cibinong.webp"   
+        "gambar": "/images/hotel/Horison Ultima Sayaga Cibinong.webp"   
     },
     {
         "id": 35,
@@ -807,7 +807,7 @@
         ],
         "pemesanan": "https://www.agoda.com/id-id/fallinda-hotel-managed-by-salak-hospitality/hotel/bogor-id.html?countryId=192&finalPriceView=1&isShowMobileAppPrice=false&cid=1917614&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2026-03-22&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=IDR&isFreeOccSearch=false&los=1&searchrequestid=800e86d9-0cb9-4139-8e19-83b03fd4092b&ds=JT39sqxytjui%2FMdG",
         "peta": "https://maps.app.goo.gl/nTmadfWhGfj2Mg2r6",
-        "gambar": "/src/assets/images/hotel/Fallinda Hotel.webp"   
+        "gambar": "/images/hotel/Fallinda Hotel.webp"   
     },
     {
         "id": 36,
@@ -828,6 +828,6 @@
         ],
         "pemesanan": "https://www.traveloka.com/id-id/hotel/detail?spec=22-03-2026.23-03-2026.1.1.HOTEL.3000010029526.Wisma%20BPI.2&loginPromo=1&prevSearchId=1859549049164686457&mToken=f0KGf5MP9oxpzCmKIQhZcYXrD0psL4BejV0ElI5mOR1oH2%2FRy0GCG1w74cdn4IWvtoYUviWYEytaVZ63Eei85Q%3D%3D&metasearchRateId=desktop&priceDisplay=TOTAL&contexts=%7B%22accessCode%22%3A%2290975GHAD1305desktop%22%2C%22metasearchRequestId%22%3A%228833b018-cc83-47ac-87c4-a20de6d640f6%22%2C%22plc%22%3A%22HH5uwnGdLnPKRe%2Fqv7id5ADEzIVYTBfRzyspLYRnHTSiMC3eCs8STIIkaYOFR2UDAx7ltdlNfIZZiIEs%2Fdm2NQ%3D%3D%22%2C%22inventoryRateKey%22%3A%22povEwB3ZzsU2C6pd%2B6MdU13LUNuufACdbU0usK5vg0fTRF5fupKGyQeh3fqqYICGfwxXnYiRzoxM4HX9sDmt9%2FAm1AYn3MeGz8Xcpq5hCtivh6v5oTexExhWh4%2F8QPUe4K2HHJk5EOq02wZeSV9j7du1s%2Foib1eQ4wcyMp74LqaWqWe1pj9OT8nhPkCWZf8QgtOECjq9dxsNuV8klfxhLva6BTZOQeSrbeNTuS5A%2F5iReBcv9EMGL1T3ODaxAKkdfG0%2F9ScbyvxGmLeIFJaaAG2PFfPqdTICClklzb2OZ1htCokAr05jlRdEBNDC0WWzxcAOzXE5l6%2BwZAsTHk1C3Giq09pTC1Pq%2FGCcCQtfTuSCFWW%2F7TsSeYucY%2FLz3M%2BZmCvIimmqCPxLWDJLI9ZO5Q03U2WnDFbEN5ledksP5l8pQcnindWv1Y071wOXHefzhiBWHz0y%2F4E2rnjDpR%2BYAWWyoEJq6oPJO66jaJD%2Bm5%2FWqPYxQhAqYXrDxPqDyU7BdeO0nXTJ3aZm05Zx67KIyU%2FOEkDX5kaFTR7iqBLP1rxU8LO6FqVuGeopk3655osfROZR%2BwpJobilGVFQDTXoadomDoUuMEjk0Bs8ifzfPptBpm91DpTdLg%2B%2FzK6QY%2FIKcD2%2Fo09UVHzztWqnVafMnXoknlp08cs4YStdTvXPPEotusnvDk6Y5Uh8lutlEVW47bsILnjCYfWQQHWVMheW287JnywioxWNAhqvFD3QVJDCvypZUW409pDG%2B%2FRnjIZud%2BZr9FrhyJcCCaAkYrjTEHzSpIUrAjzVsYIyRcWotPcTq%2BynELKUrzF%2BczKMeBIu9IfCtZLIdw%2FiWfgp7sw0I7g4yY%2FQsHMdTSLtm%2ByXKCIBB1dyLy3r4lni3dxnHxjl4%2FiVmEfMAbZtpAACD3YNP%2FT%2FXJgfJZyTw%2Bey%2Fh2NkzkoagLemZfh8d6%2F8U3BniIC23qghkJBLhMUOXusIYBdz9EDt%2Fr2IdUziHFE4CimztSsCLP0dm7Q2KRERgsqtgH6npDWel5EgijIDx3tWVAp2FzSmxJoJE3x4DnyuWMZ2ddACKCiOMRrdHHw%2BNX7dNMnAH9cdFgyzdmzPLjpwUfxd1BOgRdQxJguH08AgGJnRbC7U3Q4o8lr%2Ff3UGljrv%2FmlBqoSN5KEv7jgrMcpnawBa8e87gTRVCD9XZGUJxSDGFaZwRVPz0HOvVKbCGllCHnw8Z8YjiP7tlT%2BkHUZyiN5I76gp%2BMPjjif72jEGjTZetGcTaXZrXBRP4%2F9HCC6u0E2jOIFLy5HQnsYVqAKmdDZ1hOfNz6naoMGcZcH0GM2omnfYjU0xyHmBUTtTohdjv4V73xxpGPe0owvnlmP4jbDKsDtPE4L6mmsWLzEYCixBEnOBVf4uMhwn41mmdJ8AbYbhHcPdBFF53PSriZAxO8owBIHt2wgf%2FBt0uowEoF8SxGc%2BmyOSvuf794w6Er6%2B9MGtK4s09IhmqVLzp%2Fnyk4rjN1N4vydbTAyzDitFOhb5FIUwsuowb9Va4XHNVx90U6fjDcRNdRKVbVghzyXToN4booPoklWYVlwZ8Qa%2FLfMVeyMzVGV2PX6WouG4%2Bz%2FdMJbeBZPmVoRsgcbZYZjnOnxJFztMfinwzPYKp46loGf3%2BVCntlMtiWEw3miqHuiQ50%2FAMrUAWcd7RDqxj4TseCyavyVejjlL1dRyNseVsRl8PCvzP3ogEkaMAibJCHXFff3dukFtP13JeLZbqJ%2F2bW94a26dTolS4jsA8ECKRTVaZowB6o1mDN%2Fb6WKXMUykVDehlBsD66LEF8kiWgxz4lsG6xKX7mUlrbPwxuE9AM9R362rOVBKn39QADkisHYKZFNww2bxzWPSSeTv9L4yIbUtJ8nCag%2BqGw0tMcxE9PP%2F%2B2CrHUMlb%2Bo07Ch7WUAElfh8w%2FmIrfJyAXEoRZOZNTX33DhX2EzXSX4OXTmuzjLvCmnt7CMEnZoRIyGOUrmmkzT%2F%2BHZ%2Bm9Wu7JGVzR94sBUj4EC%2Bxa9L5Sms4W1W0KjMhcJqjj%2FaEbM5hUC4Y2357kgVuMoHOHn9kFuWrRPlqEyUeC7Lmb7nbQPZ%2B%2BUTG7bM%2BO3O6mnpYsarhudK%2BjihuEB9SoEy64keiY2DK4tGoJmY6GOJFIj4du8mOrI8uo6LJnDeQ3oHskC1pTH9iCIjCdGhkGfkOIZbjNNm0Nc0Cn7CiV2gXwV3MK1d7HOXk6Z4g6D59%2B3yMS5aH7Suy5oCcjf%22%7D&srss=1",
         "peta": "https://maps.app.goo.gl/1K78GhbFLAbiqh8a9",
-        "gambar": "/src/assets/images/hotel/Wisma BPI.webp"   
+        "gambar": "/images/hotel/Wisma BPI.webp"   
     }
 ]

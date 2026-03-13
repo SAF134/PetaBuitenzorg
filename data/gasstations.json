@@ -19,7 +19,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/CjSTpXwnmrnTcruK9",
-        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34-16117 Ciomas.jpg"
+        "gambar": "/images/spbu/SPBU Pertamina 34-16117 Ciomas.jpg"
     },
     {
         "id": 2,
@@ -41,7 +41,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/6fL31uEQKwEsFoH57",
-        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34-16115.jpg"
+        "gambar": "/images/spbu/SPBU Pertamina 34-16115.jpg"
     },
     {
         "id": 3,
@@ -64,7 +64,7 @@
             "Cuci mobil"
         ],
         "peta": "https://maps.app.goo.gl/Lb6MEYMu4dqSxk9U6",
-        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34.161.21.jpg"
+        "gambar": "/images/spbu/SPBU Pertamina 34.161.21.jpg"
     },
     {
         "id": 4,
@@ -82,7 +82,7 @@
             "Revvo"
         ],
         "peta": "https://maps.app.goo.gl/cbwWoDQP6QqT1z1Q7",
-        "gambar": "/src/assets/images/spbu/SPBU VIVO Pajajaran.jpg"
+        "gambar": "/images/spbu/SPBU VIVO Pajajaran.jpg"
     },
     {
         "id": 5,
@@ -104,7 +104,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/7sFyk61dSReNWsJB9",
-        "gambar": "/src/assets/images/spbu/SPBU Pajajaran 34.16102.jpg"
+        "gambar": "/images/spbu/SPBU Pajajaran 34.16102.jpg"
     },
     {
         "id": 6,
@@ -124,7 +124,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/DxguGbELMBKtawVCA",
-        "gambar": "/src/assets/images/spbu/SPBU Premium Lot of Quota.jpg"
+        "gambar": "/images/spbu/SPBU Premium Lot of Quota.jpg"
     },
     {
         "id": 7,
@@ -144,7 +144,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/3x7DmJJM7n7BSbBE7",
-        "gambar": "/src/assets/images/spbu/SPBU 34.16108.jpg"
+        "gambar": "/images/spbu/SPBU 34.16108.jpg"
     },
     {
         "id": 8,
@@ -163,7 +163,7 @@
             "V-Power"
         ],
         "peta": "https://maps.app.goo.gl/fHhkf5znMA9GtdJ28",
-        "gambar": "/src/assets/images/spbu/Shell Dr. Semeru-1 Bogor.jpg"
+        "gambar": "/images/spbu/Shell Dr. Semeru-1 Bogor.jpg"
     },
     {
         "id": 9,
@@ -183,7 +183,7 @@
             "Ganti oli"
         ],
         "peta": "https://maps.app.goo.gl/DsBswumhmVGZ6y6U8",
-        "gambar": "/src/assets/images/spbu/SPBU Shell Pajajaran Bogor.jpg"
+        "gambar": "/images/spbu/SPBU Shell Pajajaran Bogor.jpg"
     },
     {
         "id": 10,
@@ -203,7 +203,7 @@
             "BP diesel"
         ],
         "peta": "https://maps.app.goo.gl/bAZh8APYzJuArBFz7",
-        "gambar": "/src/assets/images/spbu/SPBU BP Ahmad Yani.jpg"
+        "gambar": "/images/spbu/SPBU BP Ahmad Yani.jpg"
     },
     {
         "id": 11,
@@ -225,7 +225,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/nGEqo4vvZ156dEKQ6",
-        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34-16304.jpg"
+        "gambar": "/images/spbu/SPBU Pertamina 34-16304.jpg"
     },
     {
         "id": 12,
@@ -247,7 +247,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/WtpQvuEFCyA77nxy6",
-        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34.161.20.jpg"
+        "gambar": "/images/spbu/SPBU Pertamina 34.161.20.jpg"
     },
     {
         "id": 13,
@@ -269,7 +269,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/pnehmMCXqajo8qxJ6",
-        "gambar": "/src/assets/images/spbu/Pertamina SPBU 34.16119.jpg"   
+        "gambar": "/images/spbu/Pertamina SPBU 34.16119.jpg"   
     },
     {
         "id": 14,
@@ -291,7 +291,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/3SSCoEwoyhZV2pss9",
-        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34-16938.jpg"   
+        "gambar": "/images/spbu/SPBU Pertamina 34-16938.jpg"   
     },
     {
         "id": 15,
@@ -313,7 +313,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/qvNPmyN3g3hycfVZ8",
-        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34.163.01.jpg"
+        "gambar": "/images/spbu/SPBU Pertamina 34.163.01.jpg"
     },
     {
         "id": 16,
@@ -335,7 +335,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/H2re7U4x6mAvdPCZA",
-        "gambar": "/src/assets/images/spbu/SPBU Keradenan Pertamina 34.16911.jpg"
+        "gambar": "/images/spbu/SPBU Keradenan Pertamina 34.16911.jpg"
     },
     {
         "id": 17,
@@ -357,7 +357,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/65Gpy34W82ufNNut8",
-        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34.161.09.jpg"
+        "gambar": "/images/spbu/SPBU Pertamina 34.161.09.jpg"
     },
     {
         "id": 18,
@@ -379,7 +379,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/W73dEXPb2PCMh7dLA",
-        "gambar": "/src/assets/images/spbu/SPBU Pertamina COCO 31.161.13.jpg"
+        "gambar": "/images/spbu/SPBU Pertamina COCO 31.161.13.jpg"
     },
     {
         "id": 19,
@@ -401,7 +401,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/JD61qT2ZCZrt8cBH6",
-        "gambar": "/src/assets/images/spbu/SPBU Pertamina 3416922.jpg"
+        "gambar": "/images/spbu/SPBU Pertamina 3416922.jpg"
     },
     {
         "id": 20,
@@ -421,7 +421,7 @@
             "V-Power"
         ],
         "peta": "https://maps.app.goo.gl/bUGcJkmmWRP843dq8",
-        "gambar": "/src/assets/images/spbu/Shell Cibinong.jpg"
+        "gambar": "/images/spbu/Shell Cibinong.jpg"
     },
     {
         "id": 21,
@@ -439,7 +439,7 @@
             "Revvo"
         ],
         "peta": "https://maps.app.goo.gl/S21DY2B9hKEAgzEv9",
-        "gambar": "/src/assets/images/spbu/SPBU VIVO Parung.jpg"
+        "gambar": "/images/spbu/SPBU VIVO Parung.jpg"
     },
     {
         "id": 22,
@@ -457,7 +457,7 @@
             "Revvo"
         ],
         "peta": "https://maps.app.goo.gl/8cAbLCNfmYkpjuFo9",
-        "gambar": "/src/assets/images/spbu/SPBU VIVO Bogor.jpg"
+        "gambar": "/images/spbu/SPBU VIVO Bogor.jpg"
     },
     {
         "id": 23,
@@ -475,7 +475,7 @@
             "Revvo"
         ],
         "peta": "https://maps.app.goo.gl/PNr5BbchrXTvXuxy9",
-        "gambar": "/src/assets/images/spbu/SPBU VIVO Sentul.jpg"
+        "gambar": "/images/spbu/SPBU VIVO Sentul.jpg"
     },
     {
         "id": 24,
@@ -493,7 +493,7 @@
             "Revvo"
         ],
         "peta": "https://maps.app.goo.gl/PUNgr6DS7e2M5t1i8",
-        "gambar": "/src/assets/images/spbu/SPBU VIVO Batu Tulis.jpg"
+        "gambar": "/images/spbu/SPBU VIVO Batu Tulis.jpg"
     },
     {
         "id": 25,
@@ -513,7 +513,7 @@
             "BP diesel"
         ],
         "peta": "https://maps.app.goo.gl/FKiqCgmD36SV8N299",
-        "gambar": "/src/assets/images/spbu/BP Soleh Iskandar.jpg"
+        "gambar": "/images/spbu/BP Soleh Iskandar.jpg"
     },
     {
         "id": 26,
@@ -533,7 +533,7 @@
             "BP diesel"
         ],
         "peta": "https://maps.app.goo.gl/v1MN9cQaCpR3xieP8",
-        "gambar": "/src/assets/images/spbu/BP Alternatif Sentul.jpg"
+        "gambar": "/images/spbu/BP Alternatif Sentul.jpg"
     },
     {
         "id": 27,
@@ -552,7 +552,7 @@
             "BP diesel"
         ],
         "peta": "https://maps.app.goo.gl/CMpo9u8SheEgLhBB9",
-        "gambar": "/src/assets/images/spbu/BP Alternatif Cibubur.jpg"
+        "gambar": "/images/spbu/BP Alternatif Cibubur.jpg"
     },
     {
         "id": 28,
@@ -570,7 +570,7 @@
             "BP diesel"
         ],
         "peta": "https://maps.app.goo.gl/M4VJxDgHrbHLtw676",
-        "gambar": "/src/assets/images/spbu/BP TirePro Pajajaran.jpg"
+        "gambar": "/images/spbu/BP TirePro Pajajaran.jpg"
     },
     {
         "id": 29,
@@ -592,7 +592,7 @@
             "Solar"
         ],
         "peta": "https://maps.app.goo.gl/KTbVc2uzqBjEczNE6",
-        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34.163.09.jpg"
+        "gambar": "/images/spbu/SPBU Pertamina 34.163.09.jpg"
     },
     {
         "id": 30,
@@ -612,7 +612,7 @@
             "Pertamina Dex"
         ],
         "peta": "https://maps.app.goo.gl/YbRtr4Ufyx8bF8hSA",
-        "gambar": "/src/assets/images/spbu/SPBU Bojong Gede Pertamina 34.16123.jpg"
+        "gambar": "/images/spbu/SPBU Bojong Gede Pertamina 34.16123.jpg"
     },
     {
         "id": 31,
@@ -634,7 +634,7 @@
             "Pertamina Dex"
         ],
         "peta": "https://maps.app.goo.gl/7U1vi9WQDsK4QZ7F6",
-        "gambar": "/src/assets/images/spbu/SPBU Pertamina 3416941 Al - Muslim.jpg"
+        "gambar": "/images/spbu/SPBU Pertamina 3416941 Al - Muslim.jpg"
     },
     {
         "id": 32,
@@ -656,6 +656,6 @@
             "Pertamina Dex"
         ],
         "peta": "https://maps.app.goo.gl/Mxr5QTaHoMDQaqMk9",
-        "gambar": "/src/assets/images/spbu/SPBU Pertamina 34-16715.jpg"
+        "gambar": "/images/spbu/SPBU Pertamina 34-16715.jpg"
     }
 ]

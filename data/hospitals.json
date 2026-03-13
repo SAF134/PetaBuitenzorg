@@ -9,7 +9,7 @@
         "rating": 4.5,
         "alamat": "Jl. Sawojajar No.9, RT.01/RW.04, Pabaton, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121",
         "peta": "https://maps.app.goo.gl/vHtXnPjRfRtg2LQz9",
-        "gambar": "/src/assets/images/rs/RS Ibu dan Anak Sawojajar.webp"
+        "gambar": "/images/rs/RS Ibu dan Anak Sawojajar.webp"
     },
     {
         "id": 2,
@@ -21,7 +21,7 @@
         "rating": 4.5,
         "alamat": "Jl. Sholeh Iskandar No.21, RT.05/RW.04, Cibadak, Tanah Sareal, Kota Bogor, Jawa Barat 16166",
         "peta": "https://maps.app.goo.gl/Sen7s71dDfGu64Pb8",
-        "gambar": "/src/assets/images/rs/RS Ibu dan Anak Bunda Suryatni.webp"
+        "gambar": "/images/rs/RS Ibu dan Anak Bunda Suryatni.webp"
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
         "rating": 4.6,
         "alamat": "Jalan Haji Jl. Achmad Sobana No.105, RT.04/RW.06, Tegal Gundil, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16152",
         "peta": "https://maps.app.goo.gl/4sewCr9iKpgdtHfW8",
-        "gambar": "/src/assets/images/rs/RS Ibu dan Anak Nuraida.webp"
+        "gambar": "/images/rs/RS Ibu dan Anak Nuraida.webp"
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
         "rating": 4.2,
         "alamat": "Jl. Merak No.3, RT.03/RW.06, Tanah Sareal, Kota Bogor, Jawa Barat 16161",
         "peta": "https://maps.app.goo.gl/jNqifG4SGXGvM4jE7",
-        "gambar": "/src/assets/images/rs/RS Ibu dan Anak Pasutri.webp"
+        "gambar": "/images/rs/RS Ibu dan Anak Pasutri.webp"
     },
     {
         "id": 5,
@@ -57,7 +57,7 @@
         "rating": 4.0,
         "alamat": "Jl. DR. Sumeru No.114, RT.02/RW.01, Menteng, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16111",
         "peta": "https://maps.app.goo.gl/oArGZfxGuzTSTmyi7",
-        "gambar": "/src/assets/images/rs/RS Jiwa Dr. H. Marzoeki Mahdi.webp"
+        "gambar": "/images/rs/RS Jiwa Dr. H. Marzoeki Mahdi.webp"
     },
     {
         "id": 6,
@@ -69,7 +69,7 @@
         "rating": 4.2,
         "alamat": "Jl. Raya Pajajaran No.80, Tegallega, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16153",
         "peta": "https://maps.app.goo.gl/ecUgVq8N4TZfiqYP7",
-        "gambar": "/src/assets/images/rs/RS PMI Bogor.webp"
+        "gambar": "/images/rs/RS PMI Bogor.webp"
     },
     {
         "id": 7,
@@ -81,7 +81,7 @@
         "rating": 4.6,
         "alamat": "Jl. Raya Tajur No.168, Muarasari, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16137",
         "peta": "https://maps.app.goo.gl/J6TMC8ewjGG1q24h9",
-        "gambar": "/src/assets/images/rs/RS BSH.webp"
+        "gambar": "/images/rs/RS BSH.webp"
     },
     {
         "id": 8,
@@ -93,7 +93,7 @@
         "rating": 4.1,
         "alamat": "Jl. Raya Dramaga No.KM. 7,3, RT.01/RW.06, Margajaya, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16680",
         "peta": "https://maps.app.goo.gl/raqU1ePNkVr91q289",
-        "gambar": "/src/assets/images/rs/RS Medika Dramaga.webp"
+        "gambar": "/images/rs/RS Medika Dramaga.webp"
     },
     {
         "id": 9,
@@ -105,7 +105,7 @@
         "rating": 4.5,
         "alamat": "Jl. Raya Tajur No.75, Tajur, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16134",
         "peta": "https://maps.app.goo.gl/27sgig311jPLwMZv8",
-        "gambar": "/src/assets/images/rs/RS Umum Juliana.webp"
+        "gambar": "/images/rs/RS Umum Juliana.webp"
     },
     {
         "id": 10,
@@ -117,7 +117,7 @@
         "rating": 4.6,
         "alamat": "Jl. Empang II No.2, Empang, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16132",
         "peta": "https://maps.app.goo.gl/HmFD5gX94oatWbfn9",
-        "gambar": "/src/assets/images/rs/RS Umum Ummi.webp"
+        "gambar": "/images/rs/RS Umum Ummi.webp"
     },
     {
         "id": 11,
@@ -129,7 +129,7 @@
         "rating": 4.6,
         "alamat": "Jl. Raya Pajajaran No.27, RT.01/RW.04, Babakan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16128",
         "peta": "https://maps.app.goo.gl/XZzT3nzb8rTveoaf7",
-        "gambar": "/src/assets/images/rs/RS Siloam Bogor.webp"
+        "gambar": "/images/rs/RS Siloam Bogor.webp"
     },
     {
         "id": 12,
@@ -141,7 +141,7 @@
         "rating": 4.1,
         "alamat": "Jl. Perdana Raya No.22, RT.01/RW.10, Kedungbadak, Tanah Sareal, Kota Bogor, Jawa Barat 16710",
         "peta": "https://maps.app.goo.gl/QNwkNJ2Cpc5Df7ij6",
-        "gambar": "/src/assets/images/rs/RS Islam Bogor.webp"
+        "gambar": "/images/rs/RS Islam Bogor.webp"
     },
     {
         "id": 13,
@@ -153,7 +153,7 @@
         "rating": 3.7,
         "alamat": "Jl. Jend. Sudirman No.8, RT.03/RW.07, Sempur, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121",
         "peta": "https://maps.app.goo.gl/cQTTV2vVxGZbaPrq8",
-        "gambar": "/src/assets/images/rs/RS Salak.webp"
+        "gambar": "/images/rs/RS Salak.webp"
     },
     {
         "id": 14,
@@ -165,7 +165,7 @@
         "rating": 4.4,
         "alamat": "Jl. Raya Pajajaran No.219, RT.02/RW.11, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153",
         "peta": "https://maps.app.goo.gl/cEMvhGw6yqu9X1896",
-        "gambar": "/src/assets/images/rs/RS Azra Bogor.webp"
+        "gambar": "/images/rs/RS Azra Bogor.webp"
     },
     {
         "id": 15,
@@ -177,7 +177,7 @@
         "rating": 4.6,
         "alamat": "Jl. DR. Sumeru No.120, RT.03/RW.20, Menteng, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16112",
         "peta": "https://maps.app.goo.gl/exVB8AecJiunocHT6",
-        "gambar": "/src/assets/images/rs/RS Umum Daerah Kota Bogor.webp"
+        "gambar": "/images/rs/RS Umum Daerah Kota Bogor.webp"
     },
     {
         "id": 16,
@@ -189,7 +189,7 @@
         "rating": 4.5,
         "alamat": "Jalan Ring Road I Kav. 23, 25, 27, RT.08/RW.08, Curugmekar, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16113",
         "peta": "https://maps.app.goo.gl/k8GhcCLu7BBXK9wN7",
-        "gambar": "/src/assets/images/rs/RS Hermina Bogor.webp"
+        "gambar": "/images/rs/RS Hermina Bogor.webp"
     },
     {
         "id": 17,
@@ -201,7 +201,7 @@
         "rating": 4.8,
         "alamat": "Jl. Pajajaran Indah V No.97, RT.01/RW.11, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16143",
         "peta": "https://maps.app.goo.gl/6qo5qGUWuhc7ewe48",
-        "gambar": "/src/assets/images/rs/RS Mayapada Bogor.webp"
+        "gambar": "/images/rs/RS Mayapada Bogor.webp"
     },
     {
         "id": 18,
@@ -213,7 +213,7 @@
         "rating": 4.3,
         "alamat": "Jl. Pahlawan No.91, RT.01/RW.16, Bondongan, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16131",
         "peta": "https://maps.app.goo.gl/LkzMsXkGfTDctU1E8",
-        "gambar": "/src/assets/images/rs/RS Melania.webp"
+        "gambar": "/images/rs/RS Melania.webp"
     },
     {
         "id": 19,
@@ -225,7 +225,7 @@
         "rating": 4.5,
         "alamat": "Jl. Siliwangi No.11, RT.01/RW.03, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142",
         "peta": "https://maps.app.goo.gl/xq8Eur9WA7oUHtvS9",
-        "gambar": "/src/assets/images/rs/RS Vania.webp"
+        "gambar": "/images/rs/RS Vania.webp"
     },
     {
         "id": 20,
@@ -237,7 +237,7 @@
         "rating": 4.3,
         "alamat": "Jl. Raya Pajajaran No.98, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153",
         "peta": "https://maps.app.goo.gl/37ky17STDc2USznH9",
-        "gambar": "/src/assets/images/rs/RS Mulia Pajajaran Bogor.webp"
+        "gambar": "/images/rs/RS Mulia Pajajaran Bogor.webp"
     },
     {
         "id": 21,
@@ -249,7 +249,7 @@
         "rating": 4.3,
         "alamat": "Jl. Kapten Muslihat No.18, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16124",
         "peta": "https://maps.app.goo.gl/E9vcuv6Vv1kZ52cZ7",
-        "gambar": "/src/assets/images/rs/RS Bhayangkara Bogor.webp"
+        "gambar": "/images/rs/RS Bhayangkara Bogor.webp"
     },
     {
         "id": 22,
@@ -261,6 +261,6 @@
         "rating": 4.0,
         "alamat": "Jl. KH. R. Abdullah Bin Nuh No.2, RT.04/RW.12, Cilendek Bar., Kec. Bogor Bar., Kota Bogor, Jawa Barat 16113",
         "peta": "https://maps.app.goo.gl/Efi3JcNXzvgDQjTv8",
-        "gambar": "/src/assets/images/rs/RS Graha Medika Bogor.webp"
+        "gambar": "/images/rs/RS Graha Medika Bogor.webp"
     }
 ]

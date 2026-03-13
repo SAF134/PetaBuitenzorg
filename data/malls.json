@@ -7,7 +7,7 @@
         "lng": 106.80690320000943,
         "rating": 4.6,
         "peta": "https://maps.app.goo.gl/sneBKyKGgd5V9AGT9",
-        "gambar": "/src/assets/images/mall/Botani Square.webp"
+        "gambar": "/images/mall/Botani Square.webp"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "lng": 106.79665028709975,
         "rating": 4.6,
         "peta": "https://maps.app.goo.gl/4ichGJSQhpjsa1gk6",
-        "gambar": "/src/assets/images/mall/Bogor Junction.webp"
+        "gambar": "/images/mall/Bogor Junction.webp"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "lng": 106.79529154326775,
         "rating": 4.4,
         "peta": "https://maps.app.goo.gl/edZ1RpohAAttepQZ6",
-        "gambar": "/src/assets/images/mall/Mall BTM Bogor.webp"
+        "gambar": "/images/mall/Mall BTM Bogor.webp"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "lng": 106.78706615890488,
         "rating": 4.5,
         "peta": "https://maps.app.goo.gl/FxdcCWwuTTsKuy6b8",
-        "gambar": "/src/assets/images/mall/CitiPlaza Bogor.webp"
+        "gambar": "/images/mall/CitiPlaza Bogor.webp"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "lng": 106.80576448835262,
         "rating": 4.4,
         "peta": "https://maps.app.goo.gl/5QcG7JJCdgbXMndP9",
-        "gambar": "/src/assets/images/mall/Lippo Plaza Keboen Raya.webp"
+        "gambar": "/images/mall/Lippo Plaza Keboen Raya.webp"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "lng": 106.77563086153023,
         "rating": 4.5,
         "peta": "https://maps.app.goo.gl/pwViSs1c3oSAUeyy7",
-        "gambar": "/src/assets/images/mall/Bogor Great Mall.webp"
+        "gambar": "/images/mall/Bogor Great Mall.webp"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "lng": 106.842368269337956,
         "rating": 4.7,
         "peta": "https://maps.app.goo.gl/V6cETbmxGoTe3jPc9",
-        "gambar": "/src/assets/images/mall/Cibinong City Mall.webp"
+        "gambar": "/images/mall/Cibinong City Mall.webp"
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "lng": 106.78537339612045,
         "rating": 4.6,
         "peta": "https://maps.app.goo.gl/MooCZB4HhLaEX7L19",
-        "gambar": "/src/assets/images/mall/Bogor Square.webp"
+        "gambar": "/images/mall/Bogor Square.webp"
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "lng": 106.8581778557084,
         "rating": 4.7,
         "peta": "https://maps.app.goo.gl/hWbY7sUw5x1ZeZQWA",
-        "gambar": "/src/assets/images/mall/AEON MALL Sentul City.webp"
+        "gambar": "/images/mall/AEON MALL Sentul City.webp"
     },
     {
         "id": 10,
@@ -97,7 +97,7 @@
         "lng": 106.7906310241066,
         "rating": 4.6,
         "peta": "https://maps.app.goo.gl/tq1ADLcpnyXMM4YG7",
-        "gambar": "/src/assets/images/mall/Yogya Bogor Indah Plaza Cimanggu.webp"
+        "gambar": "/images/mall/Yogya Bogor Indah Plaza Cimanggu.webp"
     },
     {
         "id": 11,
@@ -107,7 +107,7 @@
         "lng": 106.83195940000607,
         "rating": 4.4,
         "peta": "https://maps.app.goo.gl/AZq8SaEu8jaz4TDn6",
-        "gambar": "/src/assets/images/mall/Vivo Mall Bogor.webp"
+        "gambar": "/images/mall/Vivo Mall Bogor.webp"
     },
     {
         "id": 12,
@@ -117,7 +117,7 @@
         "lng": 106.84433800000946,
         "rating": 4.0,
         "peta": "https://maps.app.goo.gl/BVjsLWBKaujXgGDz9",
-        "gambar": "/src/assets/images/mall/Bellanova Country Mall.webp"
+        "gambar": "/images/mall/Bellanova Country Mall.webp"
     },
     {
         "id": 13,
@@ -127,7 +127,7 @@
         "lng": 106.81765036255678,
         "rating": 4.4,
         "peta": "https://maps.app.goo.gl/EQic9PAa6RAJ2CVz6",
-        "gambar": "/src/assets/images/mall/Lippo Plaza Ekalokasari.webp"
+        "gambar": "/images/mall/Lippo Plaza Ekalokasari.webp"
     },
     {
         "id": 14,
@@ -137,7 +137,7 @@
         "lng": 106.80811362272632,
         "rating": 4.6,
         "peta": "https://maps.app.goo.gl/WFhHoX75XoHY4cTE8",
-        "gambar": "/src/assets/images/mall/Plaza Jambu Dua Bogor.webp"
+        "gambar": "/images/mall/Plaza Jambu Dua Bogor.webp"
     },
     {
         "id": 15,
@@ -147,7 +147,7 @@
         "lng": 106.78594571846673,
         "rating": 4.3,
         "peta": "https://maps.app.goo.gl/551MqTLr8yA3TJoJ6",
-        "gambar": "/src/assets/images/mall/BTW Mall.webp"
+        "gambar": "/images/mall/BTW Mall.webp"
     },
     {
         "id": 16,
@@ -157,7 +157,7 @@
         "lng": 106.80811362272632,
         "rating": 4.6,
         "peta": "https://maps.app.goo.gl/WFhHoX75XoHY4cTE8",
-        "gambar": "/src/assets/images/mall/Metropolitan Mall Cileungsi.webp"
+        "gambar": "/images/mall/Metropolitan Mall Cileungsi.webp"
     },
     {
         "id": 17,
@@ -167,7 +167,7 @@
         "lng": 106.78727713250802,
         "rating": 4.5,
         "peta": "https://maps.app.goo.gl/bLmXiezonFZ1EVAt9",
-        "gambar": "/src/assets/images/mall/Pusat Grosir Bogor PGB.webp"
+        "gambar": "/images/mall/Pusat Grosir Bogor PGB.webp"
     },
     {
         "id": 18,
@@ -177,7 +177,7 @@
         "lng": 106.8270470850204,
         "rating": 4.5,
         "peta": "https://maps.app.goo.gl/LXbtiLfUtTErGE2w6",
-        "gambar": "/src/assets/images/mall/Boxies 123 Mall.webp"
+        "gambar": "/images/mall/Boxies 123 Mall.webp"
     },
     {
         "id": 19,
@@ -187,6 +187,6 @@
         "lng": 106.95918729619079,
         "rating": 4.6,
         "peta": "https://maps.app.goo.gl/Z7HFuTcycZSCEJCa6",
-        "gambar": "/src/assets/images/mall/Living World Kota Wisata Cibubur.webp"
+        "gambar": "/images/mall/Living World Kota Wisata Cibubur.webp"
     }
 ]
