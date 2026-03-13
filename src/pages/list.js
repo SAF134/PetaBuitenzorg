@@ -45,6 +45,9 @@ export function renderList(container, type = 'hotel') {
           <div class="search-input">
             <svg class="search-input__icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
             <input type="text" id="search-input" placeholder="Cari ${typeLabel}..." autocomplete="off" value="${currentFilters.search || ''}" />
+            <button id="search-clear" class="search-input__clear" style="display: ${currentFilters.search ? 'flex' : 'none'}" title="Bersihkan pencarian">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            </button>
           </div>
         </div>
         <div class="list-page__filter-bar" id="filter-bar">
@@ -387,14 +390,33 @@ function setupListEvents(type) {
   const isSPBU = type === 'spbu';
   // Search
   const searchInput = document.getElementById('search-input');
+  const searchClear = document.getElementById('search-clear');
   let debounceTimer;
+
   searchInput.addEventListener('input', (e) => {
+    const value = e.target.value;
+    
+    // Toggle clear button
+    if (searchClear) {
+      searchClear.style.display = value ? 'flex' : 'none';
+    }
+
     clearTimeout(debounceTimer);
     debounceTimer = setTimeout(() => {
-      currentFilters.search = e.target.value;
+      currentFilters.search = value;
       renderCards(type);
     }, 250);
   });
+
+  if (searchClear) {
+    searchClear.addEventListener('click', () => {
+      searchInput.value = '';
+      currentFilters.search = '';
+      searchClear.style.display = 'none';
+      searchInput.focus();
+      renderCards(type);
+    });
+  }
 
   let activeFilterId = null;
 

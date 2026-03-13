@@ -93,7 +93,7 @@
   --transition-spring: 400ms cubic-bezier(0.34, 1.56, 0.64, 1);
 
   /* Layout */
-  --navbar-height: 72px;
+  --navbar-height: 60px;
   --header-height: 60px;
   --max-width: 480px;
 }
