@@ -152,11 +152,11 @@
     {
         "id": 16,
         "nama": "Metropolitan Mall Cileungsi",
-        "alamat": "Jl. Achmad Adnawijaya, RT.04/RW.01, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153",
-        "lat": -6.569217721725546,
-        "lng": 106.80811362272632,
+        "alamat": "Jl. Kota Taman Metropolitan, Cileungsi Kidul, Kec. Cileungsi, Kabupaten Bogor, Jawa Barat 16820",
+        "lat": -6.398927803738778,
+        "lng": 106.97614528924399,
         "rating": 4.6,
-        "peta": "https://maps.app.goo.gl/WFhHoX75XoHY4cTE8",
+        "peta": "https://maps.app.goo.gl/wRniA16ZP7V1K4oF7",
         "gambar": "/images/mall/Metropolitan Mall Cileungsi.webp"
     },
     {
@@ -188,5 +188,15 @@
         "rating": 4.6,
         "peta": "https://maps.app.goo.gl/Z7HFuTcycZSCEJCa6",
         "gambar": "/images/mall/Living World Kota Wisata Cibubur.webp"
+    },
+    {
+        "id": 20,
+        "nama": "Cibinong Square",
+        "alamat": "Jl. Raya Jakarta-Bogor No.44, Pakansari, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16915",
+        "lat": -6.47928478815515,
+        "lng": 106.84386315218765,
+        "rating": 4.1,
+        "peta": "https://maps.app.goo.gl/quznLDzDdRgENQq86",
+        "gambar": "/images/mall/Cibinong Square.webp"
     }
 ]

@@ -63,6 +63,9 @@ export function renderMap(container, query = {}) {
           <div class="search-input">
             <svg class="search-input__icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
             <input type="text" id="search-input" placeholder="Cari ${typeLabel}..." autocomplete="off" />
+            <button type="button" class="search-input__clear" id="search-clear" title="Hapus pencarian">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            </button>
           </div>
         </div>
         <div class="list-page__filter-bar" id="filter-bar">
@@ -639,7 +642,7 @@ function createPopup(item, type) {
             ${item.rating ? `
             <div class="rating" style="font-size:12px; display: flex; align-items: center; gap: 4px;">
               <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="var(--accent-gold)" stroke="var(--accent-gold)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
-              <span class="rating__value" style="color: var(--text-primary); font-weight: 600;">${item.rating}</span>
+              <span class="rating__value" style="color: var(--text-primary); font-weight: 600;">${Number(item.rating).toFixed(1)}</span>
             </div>` : ''}
             ${isHotel && item.kategori ? `
               <span class="badge" style="background: ${item.kategori === 5 ? '#ef4444' :
@@ -743,13 +746,31 @@ function setupMapEvents() {
   // List filters events if visible
   if (isHotel || isRS || isMall || isSPBU) {
     const searchInput = document.getElementById('search-input');
+    const searchClear = document.getElementById('search-clear');
+
+    if (currentFilters.search) {
+      searchInput.value = currentFilters.search;
+      searchClear.style.display = 'flex';
+    }
+
     let debounceTimer;
     searchInput.addEventListener('input', (e) => {
+      const hasValue = !!e.target.value;
+      searchClear.style.display = hasValue ? 'flex' : 'none';
+
       clearTimeout(debounceTimer);
       debounceTimer = setTimeout(() => {
         currentFilters.search = e.target.value;
         addMarkers();
       }, 250);
+    });
+
+    searchClear.addEventListener('click', () => {
+      searchInput.value = '';
+      searchClear.style.display = 'none';
+      currentFilters.search = '';
+      addMarkers();
+      searchInput.focus();
     });
 
     let activeFilterId = null;

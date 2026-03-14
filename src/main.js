@@ -245,7 +245,7 @@ async function init() {
                 App.exitApp();
             } else {
                 backButtonPressedOnce = true;
-                showToast('Tekan sekali lagi untuk keluar');
+                showToast('Tekan lagi untuk keluar');
                 clearTimeout(backButtonTimeout);
                 backButtonTimeout = setTimeout(() => {
                     backButtonPressedOnce = false;

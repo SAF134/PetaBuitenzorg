@@ -58,14 +58,14 @@ export function renderDetail(container, type, id) {
             ${isHotel ? `
               <div class="rating">
                 <span class="rating__stars"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span>
-                <span class="rating__value">${item.rating}</span>
+                <span class="rating__value">${Number(item.rating).toFixed(1)}</span>
               </div>
               <span class="badge badge--star-${item.kategori}">${getStarLabel(item.kategori)}</span>`
       : `
               ${item.rating ? `
               <div class="rating">
                 <span class="rating__stars"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span>
-                <span class="rating__value">${item.rating}</span>
+                <span class="rating__value">${Number(item.rating).toFixed(1)}</span>
               </div>` : ''}
               ${isRS ? `<span class="badge ${item.jenis === 'RSIA' ? 'badge--rsia' : item.jenis === 'RSU' ? 'badge--rsu' : item.jenis === 'RSJ' ? 'badge--rsj' : 'badge--rs'}">${item.jenis}</span><span class="badge ${item.kelas === 'A' ? 'badge--kelas-a' : item.kelas === 'B' ? 'badge--kelas-b' : item.kelas === 'C' ? 'badge--kelas-c' : item.kelas === 'D' ? 'badge--kelas-d' : 'badge--kelas'}">Kelas ${item.kelas}</span>`
         : isMall ? `<span class="badge" style="background-color:#d946ef;color:white;">Mall</span>`
