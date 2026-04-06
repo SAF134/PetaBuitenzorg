@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "nama": "Botani Square",
+        "alamat": "Jl. Raya Pajajaran No.40, Tugu Kujang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16127",
+        "lat": -6.601415544818375,
+        "lng": 106.80690320000943,
+        "rating": 4.6,
+        "peta": "https://maps.app.goo.gl/sneBKyKGgd5V9AGT9",
+        "gambar": "/images/mall/Botani Square.webp"
+    },
+    {
+        "id": 2,
+        "nama": "Bogor Junction",
+        "alamat": "Jl. Jend. Sudirman No.11, RT.01/RW.03, Pabaton, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121",
+        "lat": -6.589377024664911,
+        "lng": 106.79665028709975,
+        "rating": 4.6,
+        "peta": "https://maps.app.goo.gl/4ichGJSQhpjsa1gk6",
+        "gambar": "/images/mall/Bogor Junction.webp"
+    },
+    {
+        "id": 3,
+        "nama": "Mall BTM Bogor",
+        "alamat": "Jl. Ir. H. Juanda No.68, RT.01/RW.13, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",
+        "lat": -6.605054078894404,
+        "lng": 106.79529154326775,
+        "rating": 4.4,
+        "peta": "https://maps.app.goo.gl/edZ1RpohAAttepQZ6",
+        "gambar": "/images/mall/Mall BTM Bogor.webp"
+    },
+    {
+        "id": 4,
+        "nama": "CitiPlaza Bogor",
+        "alamat": "Jl. Veteran No.31, RT.01/RW.03, Panaragan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16125",
+        "lat": -6.595799912435619,
+        "lng": 106.78706615890488,
+        "rating": 4.5,
+        "peta": "https://maps.app.goo.gl/FxdcCWwuTTsKuy6b8",
+        "gambar": "/images/mall/CitiPlaza Bogor.webp"
+    },
+    {
+        "id": 5,
+        "nama": "Lippo Plaza Keboen Raya",
+        "alamat": "Jl. Malabar 2 No.17A, Babakan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",
+        "lat": -6.595451944653976,
+        "lng": 106.80576448835262,
+        "rating": 4.4,
+        "peta": "https://maps.app.goo.gl/5QcG7JJCdgbXMndP9",
+        "gambar": "/images/mall/Lippo Plaza Keboen Raya.webp"
+    },
+    {
+        "id": 6,
+        "nama": "Bogor Great Mall",
+        "alamat": "Jl. KH. R. Abdullah Bin Nuh, RT.05/RW.04, Cibadak, Tanah Sareal, Kota Bogor, Jawa Barat 16166",
+        "lat": -6.55630664538846,
+        "lng": 106.77563086153023,
+        "rating": 4.5,
+        "peta": "https://maps.app.goo.gl/pwViSs1c3oSAUeyy7",
+        "gambar": "/images/mall/Bogor Great Mall.webp"
+    },
+    {
+        "id": 7,
+        "nama": "Cibinong City Mall",
+        "alamat": "Jl. Tegar Beriman No.1, Pakansari, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16914",
+        "lat": -6.484504622405495,
+        "lng": 106.842368269337956,
+        "rating": 4.7,
+        "peta": "https://maps.app.goo.gl/V6cETbmxGoTe3jPc9",
+        "gambar": "/images/mall/Cibinong City Mall.webp"
+    },
+    {
+        "id": 8,
+        "nama": "Bogor Square",
+        "alamat": "Jl. Nasional 11, RT.05/RW.09, Kedung Jaya, Tanah Sareal, Kota Bogor, Jawa Barat 16164",
+        "lat": -6.558648788671682,
+        "lng": 106.78537339612045,
+        "rating": 4.6,
+        "peta": "https://maps.app.goo.gl/MooCZB4HhLaEX7L19",
+        "gambar": "/images/mall/Bogor Square.webp"
+    },
+    {
+        "id": 9,
+        "nama": "AEON MALL Sentul City",
+        "alamat": "Jl. MH. Thamrin, Citaringgul, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810",
+        "lat": -6.566807846286907,
+        "lng": 106.8581778557084,
+        "rating": 4.7,
+        "peta": "https://maps.app.goo.gl/hWbY7sUw5x1ZeZQWA",
+        "gambar": "/images/mall/AEON MALL Sentul City.webp"
+    },
+    {
+        "id": 10,
+        "nama": "Yogya Bogor Indah Plaza Cimanggu",
+        "alamat": "Jl. Sholeh Iskandar No.3, RT.04/RW.09, Kedungbadak, Tanah Sareal, Kota Bogor, Jawa Barat 16165",
+        "lat": -6.561088963200758,
+        "lng": 106.7906310241066,
+        "rating": 4.6,
+        "peta": "https://maps.app.goo.gl/tq1ADLcpnyXMM4YG7",
+        "gambar": "/images/mall/Yogya Bogor Indah Plaza Cimanggu.webp"
+    },
+    {
+        "id": 11,
+        "nama": "Vivo Mall Bogor",
+        "alamat": "Jl. Raya Jakarta-Bogor No.50, Cimandala, Kec. Sukaraja, Kabupaten Bogor, Jawa Barat 16710",
+        "lat": -6.525079742724295,
+        "lng": 106.83195940000607,
+        "rating": 4.4,
+        "peta": "https://maps.app.goo.gl/AZq8SaEu8jaz4TDn6",
+        "gambar": "/images/mall/Vivo Mall Bogor.webp"
+    },
+    {
+        "id": 12,
+        "nama": "Bellanova Country Mall",
+        "alamat": "Jl. MH. Thamrin No.8, Cipambuan, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810",
+        "lat": -6.566596111554252,
+        "lng": 106.84433800000946,
+        "rating": 4.0,
+        "peta": "https://maps.app.goo.gl/BVjsLWBKaujXgGDz9",
+        "gambar": "/images/mall/Bellanova Country Mall.webp"
+    },
+    {
+        "id": 13,
+        "nama": "Lippo Plaza Ekalokasari",
+        "alamat": "Jl. Siliwangi No.123, RT.02/RW.01, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142",
+        "lat": -6.621733841103846, 
+        "lng": 106.81765036255678,
+        "rating": 4.4,
+        "peta": "https://maps.app.goo.gl/EQic9PAa6RAJ2CVz6",
+        "gambar": "/images/mall/Lippo Plaza Ekalokasari.webp"
+    },
+    {
+        "id": 14,
+        "nama": "Plaza Jambu Dua Bogor",
+        "alamat": "Jl. Achmad Adnawijaya, RT.04/RW.01, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153",
+        "lat": -6.569217721725546,
+        "lng": 106.80811362272632,
+        "rating": 4.6,
+        "peta": "https://maps.app.goo.gl/WFhHoX75XoHY4cTE8",
+        "gambar": "/images/mall/Plaza Jambu Dua Bogor.webp"
+    },
+    {
+        "id": 15,
+        "nama": "BTW Mall",
+        "alamat": "Jl. Veteran No.27, RT.01/RW.03, Panaragan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16125",
+        "lat": -6.595709957241633, 
+        "lng": 106.78594571846673,
+        "rating": 4.3,
+        "peta": "https://maps.app.goo.gl/551MqTLr8yA3TJoJ6",
+        "gambar": "/images/mall/BTW Mall.webp"
+    },
+    {
+        "id": 16,
+        "nama": "Metropolitan Mall Cileungsi",
+        "alamat": "Jl. Kota Taman Metropolitan, Cileungsi Kidul, Kec. Cileungsi, Kabupaten Bogor, Jawa Barat 16820",
+        "lat": -6.398927803738778,
+        "lng": 106.97614528924399,
+        "rating": 4.6,
+        "peta": "https://maps.app.goo.gl/wRniA16ZP7V1K4oF7",
+        "gambar": "/images/mall/Metropolitan Mall Cileungsi.webp"
+    },
+    {
+        "id": 17,
+        "nama": "Pusat Grosir Bogor PGB",
+        "alamat": "Gg. Mushola No.241, RT.04/RW.03, Gunungbatu, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16118",
+        "lat": -6.592932647786969,
+        "lng": 106.78727713250802,
+        "rating": 4.5,
+        "peta": "https://maps.app.goo.gl/bLmXiezonFZ1EVAt9",
+        "gambar": "/images/mall/Pusat Grosir Bogor PGB.webp"
+    },
+    {
+        "id": 18,
+        "nama": "Boxies 123 Mall",
+        "alamat": "Jl. Raya Tajur No.123, RT.01/RW.06, Tajur, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16141",
+        "lat": -6.633777164039009,
+        "lng": 106.8270470850204,
+        "rating": 4.5,
+        "peta": "https://maps.app.goo.gl/LXbtiLfUtTErGE2w6",
+        "gambar": "/images/mall/Boxies 123 Mall.webp"
+    },
+    {
+        "id": 19,
+        "nama": "Living World Kota Wisata Cibubur",
+        "alamat": "Jl. Boulevard Kota Wisata, Ciangsana, Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat 16968",
+        "lat": -6.368587987609067,
+        "lng": 106.95918729619079,
+        "rating": 4.6,
+        "peta": "https://maps.app.goo.gl/Z7HFuTcycZSCEJCa6",
+        "gambar": "/images/mall/Living World Kota Wisata Cibubur.webp"
+    },
+    {
+        "id": 20,
+        "nama": "Cibinong Square",
+        "alamat": "Jl. Raya Jakarta-Bogor No.44, Pakansari, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16915",
+        "lat": -6.47928478815515,
+        "lng": 106.84386315218765,
+        "rating": 4.1,
+        "peta": "https://maps.app.goo.gl/quznLDzDdRgENQq86",
+        "gambar": "/images/mall/Cibinong Square.webp"
+    }
+]
