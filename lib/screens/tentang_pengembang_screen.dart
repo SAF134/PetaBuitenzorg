@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../theme/app_colors.dart';
-import '../widgets/confirmation_dialog.dart';
-import 'package:url_launcher/url_launcher.dart';
 
 class TentangPengembangScreen extends StatelessWidget {
   const TentangPengembangScreen({super.key});
@@ -89,36 +88,21 @@ class TentangPengembangScreen extends StatelessWidget {
                     imagePath: 'assets/images/logo/instagram.png',
                     label: 'Instagram',
                     value: '@saf.134',
-                    onTap: () => _showLinkConfirmation(
-                      context,
-                      'Buka Instagram',
-                      'Apakah Anda ingin mengunjungi profil Instagram @saf.134?',
-                      'http://instagram.com/saf.134',
-                    ),
+                    copyValue: 'saf.134',
                   ),
                   _buildSocialTile(
                     context,
                     imagePath: 'assets/images/logo/whatsapp.png',
                     label: 'WhatsApp',
                     value: '+62 812-9862-8236',
-                    onTap: () => _showLinkConfirmation(
-                      context,
-                      'Buka WhatsApp',
-                      'Apakah Anda ingin menghubungi pengembang melalui WhatsApp?',
-                      'http://wa.me/6281298628236',
-                    ),
+                    copyValue: '6281298628236',
                   ),
                   _buildSocialTile(
                     context,
                     imagePath: 'assets/images/logo/gmail.png',
                     label: 'Email',
                     value: 'syauqiakmal137@gmail.com',
-                    onTap: () => _showLinkConfirmation(
-                      context,
-                      'Kirim Email',
-                      'Apakah Anda ingin mengirim email ke syauqiakmal137@gmail.com?',
-                      'mailto:syauqiakmal137@gmail.com',
-                    ),
+                    copyValue: 'syauqiakmal137@gmail.com',
                   ),
                 ],
               ),
@@ -134,12 +118,13 @@ class TentangPengembangScreen extends StatelessWidget {
     required String imagePath,
     required String label,
     required String value,
-    required VoidCallback onTap,
+    required String copyValue,
   }) {
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 12),
       child: InkWell(
-        onTap: onTap,
+        onTap: () => _copyToClipboard(context, label, copyValue),
+        borderRadius: BorderRadius.circular(12),
         child: Row(
           children: [
             Container(
@@ -185,30 +170,23 @@ class TentangPengembangScreen extends StatelessWidget {
                 ],
               ),
             ),
-            const Icon(Icons.arrow_outward, size: 16, color: AppColors.outline),
+            const Icon(Icons.copy_rounded, size: 18, color: AppColors.brandBlue),
           ],
         ),
       ),
     );
   }
 
-  void _showLinkConfirmation(BuildContext context, String title, String message, String url) {
-    showDialog(
-      context: context,
-      builder: (context) => ConfirmationDialog(
-        title: title,
-        message: message,
-        onConfirm: () {
-          _launch(url);
-        },
+  void _copyToClipboard(BuildContext context, String label, String value) {
+    Clipboard.setData(ClipboardData(text: value));
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text('$label berhasil disalin!'),
+        backgroundColor: AppColors.brandBlue,
+        behavior: SnackBarBehavior.floating,
+        duration: const Duration(seconds: 2),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
       ),
     );
-  }
-
-  Future<void> _launch(String url) async {
-    final uri = Uri.parse(url);
-    if (await canLaunchUrl(uri)) {
-      await launchUrl(uri, mode: LaunchMode.externalApplication);
-    }
   }
 }

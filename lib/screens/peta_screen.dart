@@ -408,8 +408,7 @@ class _PetaScreenState extends State<PetaScreen> with TickerProviderStateMixin {
               ),
               children: [
                 TileLayer(
-                  urlTemplate: 'https://mt{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}',
-                  subdomains: const ['0', '1', '2', '3'], // Multiple subdomains for faster loading
+                  urlTemplate: 'https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}',
                   userAgentPackageName: 'com.petabuitenzorg.app',
                 ),
                 PolylineLayer(polylines: _boundaryPolylines),

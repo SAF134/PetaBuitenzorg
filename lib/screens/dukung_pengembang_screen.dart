@@ -19,7 +19,7 @@ class DukungPengembangScreen extends StatelessWidget {
         padding: const EdgeInsets.all(24),
         child: Column(
           children: [
-            const Icon(Icons.favorite, color: AppColors.error, size: 60),
+            const Icon(Icons.favorite, color: AppColors.brandBlue, size: 60),
             const SizedBox(height: 24),
             Text(
               'Terima Kasih atas Dukungan Anda!',
@@ -159,7 +159,7 @@ class DukungPengembangScreen extends StatelessWidget {
                 ],
               ),
             ),
-            const Icon(Icons.copy_rounded, size: 16, color: AppColors.outline),
+            const Icon(Icons.copy_rounded, size: 18, color: AppColors.brandBlue),
           ],
         ),
       ),
